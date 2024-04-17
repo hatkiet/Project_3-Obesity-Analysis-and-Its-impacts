@@ -19,3 +19,8 @@ correlations b/w questions
 race/sex/income
 by US state
 change over years
+
+How do demographics relate to obesity, exercise and diet
+habits? How has this changed over time? Are there regional
+trends we can observe? Both in local culture and changes
+over time?
