@@ -1,0 +1,386 @@
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,AL,Alabama,46.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,AK,Alaska,45.0,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,AZ,Arizona,35.6,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,AR,Arkansas,39.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,CA,California,31.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,CO,Colorado,30.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,CT,Connecticut,35.7,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,DE,Delaware,42.8,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,DC,District of Columbia,37.2,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,FL,Florida,40.0,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,GA,Georgia,42.5,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,GU,Guam,38.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,HI,Hawaii,32.3,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,ID,Idaho,31.3,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,IL,Illinois,37.8,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,IN,Indiana,39.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,IA,Iowa,46.7,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,KS,Kansas,39.5,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,KY,Kentucky,44.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,LA,Louisiana,43.8,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,ME,Maine,32.5,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MD,Maryland,36.2,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MA,Massachusetts,33.0,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MI,Michigan,39.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MN,Minnesota,40.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MS,Mississippi,41.2,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MO,Missouri,43.5,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,MT,Montana,32.6,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,US,National,38.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NE,Nebraska,38.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NV,Nevada,32.8,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NH,New Hampshire,35.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NJ,New Jersey,33.0,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NM,New Mexico,37.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NY,New York,34.3,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,NC,North Carolina,41.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,ND,North Dakota,34.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,OH,Ohio,43.3,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,OK,Oklahoma,38.6,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,OR,Oregon,36.7,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,PA,Pennsylvania,43.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,PR,Puerto Rico,36.6,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,RI,Rhode Island,35.5,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,SC,South Carolina,37.2,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,SD,South Dakota,38.9,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,TN,Tennessee,45.2,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,TX,Texas,39.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,UT,Utah,36.1,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,VT,Vermont,32.6,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,VI,Virgin Islands,28.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,VA,Virginia,37.9,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,WA,Washington,36.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,WV,West Virginia,40.8,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,WI,Wisconsin,41.5,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,WY,Wyoming,36.6,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,AL,Alabama,38.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,AK,Alaska,33.3,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,AZ,Arizona,35.5,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,AR,Arkansas,35.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,CA,California,34.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,CO,Colorado,26.7,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,CT,Connecticut,42.7,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,DE,Delaware,41.3,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,DC,District of Columbia,41.5,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,FL,Florida,31.8,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,GA,Georgia,44.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,GU,Guam,30.4,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,HI,Hawaii,25.6,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,ID,Idaho,34.7,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,IL,Illinois,30.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,IN,Indiana,40.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,IA,Iowa,40.6,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,KS,Kansas,38.3,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,KY,Kentucky,44.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,LA,Louisiana,44.6,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,ME,Maine,40.4,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MD,Maryland,39.4,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MA,Massachusetts,33.2,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MI,Michigan,35.8,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MN,Minnesota,33.4,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MS,Mississippi,40.2,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MO,Missouri,42.3,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,MT,Montana,27.9,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,US,National,36.5,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NE,Nebraska,36.7,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NV,Nevada,42.5,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NH,New Hampshire,32.5,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NJ,New Jersey,33.4,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NM,New Mexico,34.4,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NY,New York,32.9,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,NC,North Carolina,32.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,ND,North Dakota,35.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,OH,Ohio,39.8,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,OK,Oklahoma,43.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,OR,Oregon,29.7,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,PA,Pennsylvania,38.9,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,PR,Puerto Rico,34.6,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,RI,Rhode Island,34.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,SC,South Carolina,40.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,SD,South Dakota,36.3,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,TN,Tennessee,39.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,TX,Texas,38.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,UT,Utah,33.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,VT,Vermont,34.1,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,VI,Virgin Islands,21.8,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,VA,Virginia,42.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,WA,Washington,36.3,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,WV,West Virginia,40.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,WI,Wisconsin,40.9,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,WY,Wyoming,39.0,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,AL,Alabama,42.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,AK,Alaska,28.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,AZ,Arizona,33.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,AR,Arkansas,42.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,CA,California,29.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,CO,Colorado,27.6,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,CT,Connecticut,36.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,DE,Delaware,39.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,DC,District of Columbia,31.1,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,FL,Florida,37.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,GA,Georgia,42.7,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,GU,Guam,33.0,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,HI,Hawaii,25.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,ID,Idaho,31.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,IL,Illinois,33.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,IN,Indiana,38.7,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,IA,Iowa,36.7,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,KS,Kansas,38.0,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,KY,Kentucky,35.7,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,LA,Louisiana,39.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,ME,Maine,35.2,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MD,Maryland,34.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MA,Massachusetts,32.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MI,Michigan,35.1,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MN,Minnesota,33.6,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MS,Mississippi,47.2,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MO,Missouri,38.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,MT,Montana,29.9,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,US,National,35.6,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NE,Nebraska,34.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NV,Nevada,36.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NH,New Hampshire,36.9,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NJ,New Jersey,33.2,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NM,New Mexico,28.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NY,New York,32.2,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,NC,North Carolina,40.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,ND,North Dakota,37.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,OH,Ohio,41.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,OK,Oklahoma,42.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,OR,Oregon,30.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,PA,Pennsylvania,33.1,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,PR,Puerto Rico,35.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,RI,Rhode Island,29.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,SC,South Carolina,39.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,SD,South Dakota,42.1,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,TN,Tennessee,40.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,TX,Texas,34.5,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,UT,Utah,30.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,VT,Vermont,32.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,VI,Virgin Islands,46.6,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,VA,Virginia,37.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,WA,Washington,34.8,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,WV,West Virginia,41.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,WI,Wisconsin,38.3,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,WY,Wyoming,32.4,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,AL,Alabama,42.4,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,AK,Alaska,34.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,AZ,Arizona,33.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,AR,Arkansas,39.9,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,CA,California,31.1,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,CO,Colorado,27.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,CT,Connecticut,31.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,DE,Delaware,37.2,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,DC,District of Columbia,20.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,FL,Florida,31.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,GA,Georgia,40.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,GU,Guam,38.1,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,HI,Hawaii,27.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,ID,Idaho,34.2,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,IL,Illinois,39.3,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,IN,Indiana,39.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,IA,Iowa,38.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,KS,Kansas,39.0,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,KY,Kentucky,35.2,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,LA,Louisiana,39.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,ME,Maine,35.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MD,Maryland,38.4,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MA,Massachusetts,31.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MI,Michigan,36.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MN,Minnesota,35.3,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MS,Mississippi,36.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MO,Missouri,37.4,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,MT,Montana,33.2,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,US,National,35.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NE,Nebraska,38.1,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NV,Nevada,32.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NH,New Hampshire,28.0,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NJ,New Jersey,35.0,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NM,New Mexico,33.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NY,New York,30.1,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,NC,North Carolina,37.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,ND,North Dakota,36.9,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,OH,Ohio,39.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,OK,Oklahoma,38.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,OR,Oregon,33.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,PA,Pennsylvania,35.3,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,PR,Puerto Rico,33.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,RI,Rhode Island,36.3,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,SC,South Carolina,37.5,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,SD,South Dakota,41.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,TN,Tennessee,39.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,TX,Texas,38.3,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,UT,Utah,36.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,VT,Vermont,27.4,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,VI,Virgin Islands,30.2,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,VA,Virginia,37.2,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,WA,Washington,35.6,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,WV,West Virginia,45.1,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,WI,Wisconsin,41.1,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,WY,Wyoming,34.8,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,AL,Alabama,37.6,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AK,Alaska,34.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AZ,Arizona,35.7,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AR,Arkansas,39.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,CA,California,24.5,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,CO,Colorado,26.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,CT,Connecticut,28.4,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,DE,Delaware,41.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,DC,District of Columbia,24.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,FL,Florida,33.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,GA,Georgia,34.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,GU,Guam,33.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,HI,Hawaii,26.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,ID,Idaho,34.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,IL,Illinois,33.5,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,IN,Indiana,41.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,IA,Iowa,36.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,KS,Kansas,36.6,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,KY,Kentucky,35.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,LA,Louisiana,43.5,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,ME,Maine,30.8,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MD,Maryland,33.4,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MA,Massachusetts,28.6,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MI,Michigan,32.8,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MN,Minnesota,36.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MS,Mississippi,40.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MO,Missouri,39.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MT,Montana,36.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,US,National,34.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NE,Nebraska,36.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NV,Nevada,33.5,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NH,New Hampshire,34.2,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NJ,New Jersey,28.8,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NM,New Mexico,34.8,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NY,New York,34.6,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NC,North Carolina,36.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,ND,North Dakota,36.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,OH,Ohio,38.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,OK,Oklahoma,40.7,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,OR,Oregon,32.8,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,PA,Pennsylvania,35.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,PR,Puerto Rico,37.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,RI,Rhode Island,33.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,SC,South Carolina,34.0,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,SD,South Dakota,40.2,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,TN,Tennessee,44.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,TX,Texas,35.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,UT,Utah,32.5,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,VT,Vermont,27.3,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,VI,Virgin Islands,61.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,VA,Virginia,37.7,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WA,Washington,33.6,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WV,West Virginia,40.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WI,Wisconsin,39.9,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WY,Wyoming,33.7,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AL,Alabama,33.8,Q036,Income,Data not reported,INC,INCNR
+2022,AK,Alaska,28.9,Q036,Income,Data not reported,INC,INCNR
+2022,AZ,Arizona,30.7,Q036,Income,Data not reported,INC,INCNR
+2022,AR,Arkansas,33.1,Q036,Income,Data not reported,INC,INCNR
+2022,CA,California,25.3,Q036,Income,Data not reported,INC,INCNR
+2022,CO,Colorado,21.8,Q036,Income,Data not reported,INC,INCNR
+2022,CT,Connecticut,26.7,Q036,Income,Data not reported,INC,INCNR
+2022,DE,Delaware,34.4,Q036,Income,Data not reported,INC,INCNR
+2022,DC,District of Columbia,19.7,Q036,Income,Data not reported,INC,INCNR
+2022,FL,Florida,27.5,Q036,Income,Data not reported,INC,INCNR
+2022,GA,Georgia,32.1,Q036,Income,Data not reported,INC,INCNR
+2022,GU,Guam,27.7,Q036,Income,Data not reported,INC,INCNR
+2022,HI,Hawaii,24.0,Q036,Income,Data not reported,INC,INCNR
+2022,ID,Idaho,32.3,Q036,Income,Data not reported,INC,INCNR
+2022,IL,Illinois,28.9,Q036,Income,Data not reported,INC,INCNR
+2022,IN,Indiana,34.3,Q036,Income,Data not reported,INC,INCNR
+2022,IA,Iowa,33.9,Q036,Income,Data not reported,INC,INCNR
+2022,KS,Kansas,31.7,Q036,Income,Data not reported,INC,INCNR
+2022,KY,Kentucky,35.5,Q036,Income,Data not reported,INC,INCNR
+2022,LA,Louisiana,36.5,Q036,Income,Data not reported,INC,INCNR
+2022,ME,Maine,29.2,Q036,Income,Data not reported,INC,INCNR
+2022,MD,Maryland,30.2,Q036,Income,Data not reported,INC,INCNR
+2022,MA,Massachusetts,23.4,Q036,Income,Data not reported,INC,INCNR
+2022,MI,Michigan,31.3,Q036,Income,Data not reported,INC,INCNR
+2022,MN,Minnesota,31.1,Q036,Income,Data not reported,INC,INCNR
+2022,MS,Mississippi,35.8,Q036,Income,Data not reported,INC,INCNR
+2022,MO,Missouri,31.5,Q036,Income,Data not reported,INC,INCNR
+2022,MT,Montana,27.6,Q036,Income,Data not reported,INC,INCNR
+2022,US,National,29.5,Q036,Income,Data not reported,INC,INCNR
+2022,NE,Nebraska,32.1,Q036,Income,Data not reported,INC,INCNR
+2022,NV,Nevada,30.4,Q036,Income,Data not reported,INC,INCNR
+2022,NH,New Hampshire,26.5,Q036,Income,Data not reported,INC,INCNR
+2022,NJ,New Jersey,25.6,Q036,Income,Data not reported,INC,INCNR
+2022,NM,New Mexico,28.8,Q036,Income,Data not reported,INC,INCNR
+2022,NY,New York,27.0,Q036,Income,Data not reported,INC,INCNR
+2022,NC,North Carolina,30.3,Q036,Income,Data not reported,INC,INCNR
+2022,ND,North Dakota,34.0,Q036,Income,Data not reported,INC,INCNR
+2022,OH,Ohio,34.5,Q036,Income,Data not reported,INC,INCNR
+2022,OK,Oklahoma,38.0,Q036,Income,Data not reported,INC,INCNR
+2022,OR,Oregon,27.9,Q036,Income,Data not reported,INC,INCNR
+2022,PA,Pennsylvania,29.3,Q036,Income,Data not reported,INC,INCNR
+2022,PR,Puerto Rico,28.5,Q036,Income,Data not reported,INC,INCNR
+2022,RI,Rhode Island,27.0,Q036,Income,Data not reported,INC,INCNR
+2022,SC,South Carolina,30.1,Q036,Income,Data not reported,INC,INCNR
+2022,SD,South Dakota,31.5,Q036,Income,Data not reported,INC,INCNR
+2022,TN,Tennessee,33.8,Q036,Income,Data not reported,INC,INCNR
+2022,TX,Texas,32.7,Q036,Income,Data not reported,INC,INCNR
+2022,UT,Utah,28.1,Q036,Income,Data not reported,INC,INCNR
+2022,VT,Vermont,22.6,Q036,Income,Data not reported,INC,INCNR
+2022,VI,Virgin Islands,27.7,Q036,Income,Data not reported,INC,INCNR
+2022,VA,Virginia,31.5,Q036,Income,Data not reported,INC,INCNR
+2022,WA,Washington,27.7,Q036,Income,Data not reported,INC,INCNR
+2022,WV,West Virginia,40.6,Q036,Income,Data not reported,INC,INCNR
+2022,WI,Wisconsin,33.5,Q036,Income,Data not reported,INC,INCNR
+2022,WY,Wyoming,32.9,Q036,Income,Data not reported,INC,INCNR
+2022,AL,Alabama,39.5,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,AK,Alaska,37.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,AZ,Arizona,36.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,AR,Arkansas,39.6,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,CA,California,36.0,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,CO,Colorado,33.0,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,CT,Connecticut,38.7,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,DE,Delaware,42.0,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,DC,District of Columbia,31.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,FL,Florida,33.4,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,GA,Georgia,36.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,GU,Guam,32.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,HI,Hawaii,28.1,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,ID,Idaho,36.1,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,IL,Illinois,46.7,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,IN,Indiana,37.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,IA,Iowa,45.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,KS,Kansas,36.8,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,KY,Kentucky,43.6,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,LA,Louisiana,41.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,ME,Maine,45.0,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MD,Maryland,35.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MA,Massachusetts,36.6,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MI,Michigan,44.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MN,Minnesota,39.4,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MS,Mississippi,40.5,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MO,Missouri,41.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,MT,Montana,31.7,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,US,National,38.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NE,Nebraska,37.0,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NV,Nevada,33.6,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NH,New Hampshire,43.8,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NJ,New Jersey,39.0,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NM,New Mexico,34.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NY,New York,32.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,NC,North Carolina,30.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,ND,North Dakota,37.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,OH,Ohio,41.5,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,OK,Oklahoma,43.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,OR,Oregon,40.6,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,PA,Pennsylvania,32.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,PR,Puerto Rico,35.6,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,RI,Rhode Island,32.1,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,SC,South Carolina,39.5,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,SD,South Dakota,29.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,TN,Tennessee,44.1,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,TX,Texas,41.4,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,UT,Utah,33.4,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,VT,Vermont,27.8,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,VI,Virgin Islands,31.4,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,VA,Virginia,40.3,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,WA,Washington,36.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,WV,West Virginia,36.8,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,WI,Wisconsin,42.9,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,WY,Wyoming,34.4,Q036,Income,"Less than $15,000",INC,INCLESS15

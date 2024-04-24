@@ -1,0 +1,221 @@
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,AL,Alabama,36.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,AK,Alaska,24.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,AZ,Arizona,29.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,AR,Arkansas,36.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,CA,California,20.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,CO,Colorado,20.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,CT,Connecticut,23.6,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,DE,Delaware,35.6,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,DC,District of Columbia,17.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,FL,Florida,25.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,GA,Georgia,30.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,GU,Guam,28.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,HI,Hawaii,19.7,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,ID,Idaho,28.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,IL,Illinois,27.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,IN,Indiana,34.6,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,IA,Iowa,31.9,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,KS,Kansas,31.7,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,KY,Kentucky,31.6,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,LA,Louisiana,33.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,ME,Maine,27.6,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MD,Maryland,26.9,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MA,Massachusetts,22.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MI,Michigan,29.7,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MN,Minnesota,29.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MS,Mississippi,39.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MO,Missouri,33.5,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,MT,Montana,24.9,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,US,National,27.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NE,Nebraska,30.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NV,Nevada,27.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NH,New Hampshire,25.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NJ,New Jersey,24.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NM,New Mexico,24.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NY,New York,23.9,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,NC,North Carolina,27.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,ND,North Dakota,31.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,OH,Ohio,33.1,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,OK,Oklahoma,36.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,OR,Oregon,25.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,PA,Pennsylvania,25.5,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,PR,Puerto Rico,34.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,RI,Rhode Island,24.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,SC,South Carolina,32.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,SD,South Dakota,30.5,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,TN,Tennessee,32.5,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,TX,Texas,31.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,UT,Utah,27.7,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,VT,Vermont,19.7,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,VI,Virgin Islands,32.3,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,VA,Virginia,30.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,WA,Washington,24.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,WV,West Virginia,37.0,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,WI,Wisconsin,31.7,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,WY,Wyoming,26.4,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,AL,Alabama,40.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,AK,Alaska,34.6,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,AZ,Arizona,33.5,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,AR,Arkansas,39.1,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,CA,California,29.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,CO,Colorado,27.8,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,CT,Connecticut,33.8,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,DE,Delaware,37.3,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,DC,District of Columbia,41.3,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,FL,Florida,34.1,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,GA,Georgia,40.1,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,GU,Guam,34.2,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,HI,Hawaii,29.6,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,ID,Idaho,33.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,IL,Illinois,37.3,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,IN,Indiana,37.7,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,IA,Iowa,39.2,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,KS,Kansas,38.6,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,KY,Kentucky,40.9,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,LA,Louisiana,42.1,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,ME,Maine,34.9,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MD,Maryland,37.6,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MA,Massachusetts,31.5,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MI,Michigan,35.6,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MN,Minnesota,33.8,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MS,Mississippi,38.7,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MO,Missouri,34.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,MT,Montana,31.9,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,US,National,35.7,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NE,Nebraska,37.7,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NV,Nevada,36.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NH,New Hampshire,32.1,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NJ,New Jersey,31.2,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NM,New Mexico,35.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NY,New York,33.8,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,NC,North Carolina,33.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,ND,North Dakota,36.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,OH,Ohio,40.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,OK,Oklahoma,40.9,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,OR,Oregon,34.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,PA,Pennsylvania,36.1,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,PR,Puerto Rico,33.8,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,RI,Rhode Island,33.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,SC,South Carolina,35.9,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,SD,South Dakota,35.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,TN,Tennessee,42.9,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,TX,Texas,38.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,UT,Utah,31.3,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,VT,Vermont,31.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,VI,Virgin Islands,41.0,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,VA,Virginia,36.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,WA,Washington,35.2,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,WV,West Virginia,42.4,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,WI,Wisconsin,40.2,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,WY,Wyoming,35.7,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,AL,Alabama,32.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,AK,Alaska,33.4,Q036,Education,Less than high school,EDU,EDUHS
+2022,AZ,Arizona,38.3,Q036,Education,Less than high school,EDU,EDUHS
+2022,AR,Arkansas,30.4,Q036,Education,Less than high school,EDU,EDUHS
+2022,CA,California,36.7,Q036,Education,Less than high school,EDU,EDUHS
+2022,CO,Colorado,29.4,Q036,Education,Less than high school,EDU,EDUHS
+2022,CT,Connecticut,38.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,DE,Delaware,46.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,DC,District of Columbia,35.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,FL,Florida,38.4,Q036,Education,Less than high school,EDU,EDUHS
+2022,GA,Georgia,40.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,GU,Guam,21.3,Q036,Education,Less than high school,EDU,EDUHS
+2022,HI,Hawaii,34.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,ID,Idaho,40.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,IL,Illinois,40.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,IN,Indiana,40.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,IA,Iowa,37.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,KS,Kansas,35.1,Q036,Education,Less than high school,EDU,EDUHS
+2022,KY,Kentucky,34.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,LA,Louisiana,44.7,Q036,Education,Less than high school,EDU,EDUHS
+2022,ME,Maine,32.1,Q036,Education,Less than high school,EDU,EDUHS
+2022,MD,Maryland,35.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,MA,Massachusetts,30.2,Q036,Education,Less than high school,EDU,EDUHS
+2022,MI,Michigan,36.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,MN,Minnesota,40.4,Q036,Education,Less than high school,EDU,EDUHS
+2022,MS,Mississippi,36.0,Q036,Education,Less than high school,EDU,EDUHS
+2022,MO,Missouri,41.8,Q036,Education,Less than high school,EDU,EDUHS
+2022,MT,Montana,25.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,US,National,37.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,NE,Nebraska,32.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,NV,Nevada,34.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,NH,New Hampshire,36.3,Q036,Education,Less than high school,EDU,EDUHS
+2022,NJ,New Jersey,33.7,Q036,Education,Less than high school,EDU,EDUHS
+2022,NM,New Mexico,36.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,NY,New York,34.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,NC,North Carolina,34.8,Q036,Education,Less than high school,EDU,EDUHS
+2022,ND,North Dakota,34.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,OH,Ohio,37.8,Q036,Education,Less than high school,EDU,EDUHS
+2022,OK,Oklahoma,38.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,OR,Oregon,30.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,PA,Pennsylvania,45.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,PR,Puerto Rico,30.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,RI,Rhode Island,34.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,SC,South Carolina,35.4,Q036,Education,Less than high school,EDU,EDUHS
+2022,SD,South Dakota,33.5,Q036,Education,Less than high school,EDU,EDUHS
+2022,TN,Tennessee,40.7,Q036,Education,Less than high school,EDU,EDUHS
+2022,TX,Texas,40.1,Q036,Education,Less than high school,EDU,EDUHS
+2022,UT,Utah,30.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,VT,Vermont,37.0,Q036,Education,Less than high school,EDU,EDUHS
+2022,VI,Virgin Islands,20.3,Q036,Education,Less than high school,EDU,EDUHS
+2022,VA,Virginia,40.8,Q036,Education,Less than high school,EDU,EDUHS
+2022,WA,Washington,35.9,Q036,Education,Less than high school,EDU,EDUHS
+2022,WV,West Virginia,39.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,WI,Wisconsin,40.0,Q036,Education,Less than high school,EDU,EDUHS
+2022,WY,Wyoming,41.0,Q036,Education,Less than high school,EDU,EDUHS
+2022,AL,Alabama,40.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,AK,Alaska,36.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,AZ,Arizona,34.9,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,AR,Arkansas,39.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,CA,California,32.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,CO,Colorado,28.2,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,CT,Connecticut,34.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,DE,Delaware,38.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,DC,District of Columbia,28.7,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,FL,Florida,32.9,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,GA,Georgia,39.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,GU,Guam,41.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,HI,Hawaii,26.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,ID,Idaho,35.1,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,IL,Illinois,34.1,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,IN,Indiana,38.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,IA,Iowa,40.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,KS,Kansas,37.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,KY,Kentucky,40.1,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,LA,Louisiana,41.2,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,ME,Maine,37.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MD,Maryland,37.1,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MA,Massachusetts,30.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MI,Michigan,37.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MN,Minnesota,36.6,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MS,Mississippi,41.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MO,Missouri,39.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MT,Montana,35.1,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,US,National,35.9,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NE,Nebraska,38.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NV,Nevada,35.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NH,New Hampshire,33.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NJ,New Jersey,32.6,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NM,New Mexico,34.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NY,New York,33.2,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NC,North Carolina,41.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,ND,North Dakota,38.2,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,OH,Ohio,40.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,OK,Oklahoma,42.4,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,OR,Oregon,34.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,PA,Pennsylvania,34.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,PR,Puerto Rico,36.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,RI,Rhode Island,33.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,SC,South Carolina,36.7,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,SD,South Dakota,44.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,TN,Tennessee,39.3,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,TX,Texas,35.7,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,UT,Utah,34.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,VT,Vermont,29.5,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,VI,Virgin Islands,22.8,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,VA,Virginia,39.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WA,Washington,35.9,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WV,West Virginia,42.6,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WI,Wisconsin,40.0,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WY,Wyoming,37.2,Q036,Education,Some college or technical school,EDU,EDUCOTEC

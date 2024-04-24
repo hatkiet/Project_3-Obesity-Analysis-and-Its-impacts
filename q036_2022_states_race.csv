@@ -1,0 +1,285 @@
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,AL,Alabama,30.8,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,AK,Alaska,36.6,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,AZ,Arizona,39.6,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,AR,Arkansas,40.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,CA,California,26.6,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,CO,Colorado,15.8,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,CT,Connecticut,33.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,DE,Delaware,40.2,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,DC,District of Columbia,8.3,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,FL,Florida,29.1,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,GA,Georgia,38.3,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,GU,Guam,44.5,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,HI,Hawaii,38.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,ID,Idaho,32.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,IL,Illinois,38.9,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,IN,Indiana,29.3,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,IA,Iowa,43.1,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,KS,Kansas,39.5,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,LA,Louisiana,38.8,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,ME,Maine,47.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,MD,Maryland,38.8,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,MA,Massachusetts,30.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,MI,Michigan,34.0,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,MN,Minnesota,46.0,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,MO,Missouri,44.6,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,MT,Montana,36.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,US,National,33.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,NE,Nebraska,24.6,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,NV,Nevada,34.0,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,NH,New Hampshire,16.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,NJ,New Jersey,38.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,NY,New York,29.2,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,NC,North Carolina,39.9,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,ND,North Dakota,39.9,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,OH,Ohio,40.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,OK,Oklahoma,40.3,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,OR,Oregon,31.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,PA,Pennsylvania,20.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,RI,Rhode Island,45.9,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,SC,South Carolina,38.2,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,SD,South Dakota,71.1,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,TN,Tennessee,29.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,TX,Texas,29.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,UT,Utah,39.4,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,VT,Vermont,25.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,VA,Virginia,31.5,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,WA,Washington,37.3,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,WV,West Virginia,34.6,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,WI,Wisconsin,48.2,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,AL,Alabama,37.4,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,AK,Alaska,36.2,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,AZ,Arizona,47.9,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,AR,Arkansas,39.7,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,CA,California,42.4,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,CO,Colorado,39.2,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,FL,Florida,40.9,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,GA,Georgia,19.5,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,ID,Idaho,45.9,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,KS,Kansas,37.6,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,LA,Louisiana,45.0,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,ME,Maine,46.6,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,MD,Maryland,23.4,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,MI,Michigan,26.9,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,MN,Minnesota,44.8,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,MO,Missouri,35.7,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,MT,Montana,38.6,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,US,National,38.8,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,NE,Nebraska,42.0,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,NM,New Mexico,42.5,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,NY,New York,36.4,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,NC,North Carolina,37.2,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,ND,North Dakota,43.9,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,OH,Ohio,31.5,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,OK,Oklahoma,47.8,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,SC,South Carolina,28.6,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,SD,South Dakota,39.1,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,TX,Texas,44.6,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,UT,Utah,51.7,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,VT,Vermont,33.4,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,VA,Virginia,27.8,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,WA,Washington,43.0,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,WI,Wisconsin,45.4,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,WY,Wyoming,40.5,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,AK,Alaska,24.2,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,AZ,Arizona,11.6,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,CA,California,12.5,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,CO,Colorado,12.8,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,CT,Connecticut,13.4,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,DE,Delaware,18.7,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,DC,District of Columbia,13.8,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,FL,Florida,17.1,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,GA,Georgia,17.2,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,GU,Guam,19.1,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,HI,Hawaii,18.8,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,IL,Illinois,10.2,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,IN,Indiana,9.3,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,IA,Iowa,10.9,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,KS,Kansas,11.0,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,MD,Maryland,12.2,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,MA,Massachusetts,10.4,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,MI,Michigan,9.6,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,MN,Minnesota,19.1,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,MO,Missouri,8.5,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,US,National,13.3,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,NE,Nebraska,12.1,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,NV,Nevada,26.5,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,NH,New Hampshire,6.9,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,NJ,New Jersey,12.4,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,NY,New York,15.4,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,NC,North Carolina,9.3,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,OH,Ohio,13.5,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,OK,Oklahoma,7.0,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,OR,Oregon,13.0,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,PA,Pennsylvania,15.4,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,RI,Rhode Island,12.3,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,SC,South Carolina,8.8,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,TX,Texas,12.7,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,UT,Utah,6.7,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,VT,Vermont,7.1,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,VA,Virginia,10.7,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,WA,Washington,12.5,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,WI,Wisconsin,20.0,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,CA,California,28.6,Q036,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,GU,Guam,41.2,Q036,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,HI,Hawaii,48.9,Q036,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,US,National,35.3,Q036,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,WA,Washington,47.2,Q036,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,AL,Alabama,33.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,AK,Alaska,27.1,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,AZ,Arizona,41.5,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,AR,Arkansas,30.3,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,CA,California,36.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,CO,Colorado,30.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,CT,Connecticut,37.1,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,DE,Delaware,35.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,DC,District of Columbia,26.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,FL,Florida,35.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,GA,Georgia,31.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,GU,Guam,41.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,HI,Hawaii,32.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,ID,Idaho,36.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,IL,Illinois,39.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,IN,Indiana,40.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,IA,Iowa,38.6,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,KS,Kansas,39.3,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,KY,Kentucky,43.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,LA,Louisiana,39.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,ME,Maine,38.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MD,Maryland,33.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MA,Massachusetts,30.6,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MI,Michigan,37.5,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MN,Minnesota,35.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MS,Mississippi,45.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MO,Missouri,37.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,MT,Montana,36.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,US,National,36.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NE,Nebraska,37.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NV,Nevada,36.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NH,New Hampshire,39.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NJ,New Jersey,34.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NM,New Mexico,36.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NY,New York,35.1,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,NC,North Carolina,34.5,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,ND,North Dakota,33.4,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,OH,Ohio,36.6,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,OK,Oklahoma,44.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,OR,Oregon,37.6,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,PA,Pennsylvania,36.1,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,PR,Puerto Rico,34.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,RI,Rhode Island,32.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,SC,South Carolina,35.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,SD,South Dakota,33.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,TN,Tennessee,36.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,TX,Texas,39.6,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,UT,Utah,36.0,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,VT,Vermont,31.3,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,VI,Virgin Islands,27.9,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,VA,Virginia,34.2,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,WA,Washington,39.5,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,WV,West Virginia,43.6,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,WI,Wisconsin,39.5,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,WY,Wyoming,46.3,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,AL,Alabama,50.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,AK,Alaska,33.4,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,AZ,Arizona,43.5,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,AR,Arkansas,43.8,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,CA,California,38.7,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,CO,Colorado,29.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,CT,Connecticut,38.4,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,DE,Delaware,49.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,DC,District of Columbia,39.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,FL,Florida,37.6,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,GA,Georgia,45.7,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,HI,Hawaii,33.1,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,IL,Illinois,45.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,IN,Indiana,42.4,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,IA,Iowa,36.3,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,KS,Kansas,37.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,KY,Kentucky,41.6,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,LA,Louisiana,47.1,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,ME,Maine,41.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,MD,Maryland,42.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,MA,Massachusetts,38.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,MI,Michigan,42.7,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,MN,Minnesota,36.5,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,MS,Mississippi,47.6,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,MO,Missouri,42.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,US,National,43.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,NE,Nebraska,33.9,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,NV,Nevada,36.8,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,NJ,New Jersey,38.3,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,NM,New Mexico,35.6,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,NY,New York,37.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,NC,North Carolina,45.8,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,ND,North Dakota,25.6,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,OH,Ohio,46.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,OK,Oklahoma,52.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,OR,Oregon,29.9,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,PA,Pennsylvania,38.5,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,RI,Rhode Island,39.5,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,SC,South Carolina,44.5,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,SD,South Dakota,30.8,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,TN,Tennessee,49.5,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,TX,Texas,45.9,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,VT,Vermont,27.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,VI,Virgin Islands,37.1,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,VA,Virginia,50.2,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,WA,Washington,33.3,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,WV,West Virginia,45.1,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,WI,Wisconsin,46.8,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,AL,Alabama,35.1,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,AK,Alaska,31.3,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,AZ,Arizona,28.7,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,AR,Arkansas,36.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,CA,California,25.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,CO,Colorado,24.1,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,CT,Connecticut,28.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,DE,Delaware,35.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,DC,District of Columbia,14.3,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,FL,Florida,29.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,GA,Georgia,34.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,GU,Guam,19.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,HI,Hawaii,18.2,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,ID,Idaho,32.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,IL,Illinois,30.7,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,IN,Indiana,38.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,IA,Iowa,37.9,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,KS,Kansas,35.6,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,KY,Kentucky,37.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,LA,Louisiana,37.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,ME,Maine,32.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MD,Maryland,30.7,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MA,Massachusetts,27.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MI,Michigan,34.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MN,Minnesota,33.6,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MS,Mississippi,35.2,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MO,Missouri,36.2,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,MT,Montana,29.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,US,National,32.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NE,Nebraska,36.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NV,Nevada,31.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NH,New Hampshire,30.7,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NJ,New Jersey,28.3,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NM,New Mexico,25.9,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NY,New York,29.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,NC,North Carolina,31.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,ND,North Dakota,35.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,OH,Ohio,37.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,OK,Oklahoma,38.3,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,OR,Oregon,30.4,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,PA,Pennsylvania,34.2,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,RI,Rhode Island,30.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,SC,South Carolina,32.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,SD,South Dakota,35.9,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,TN,Tennessee,38.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,TX,Texas,32.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,UT,Utah,30.3,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,VT,Vermont,27.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,VI,Virgin Islands,23.9,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,VA,Virginia,33.9,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,WA,Washington,32.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,WV,West Virginia,40.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,WI,Wisconsin,37.0,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
+2022,WY,Wyoming,32.8,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT

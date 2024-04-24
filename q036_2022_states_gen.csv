@@ -1,0 +1,111 @@
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,AL,Alabama,40.6,Q036,Gender,Female,GEN,FEMALE
+2022,AK,Alaska,33.3,Q036,Gender,Female,GEN,FEMALE
+2022,AZ,Arizona,33.8,Q036,Gender,Female,GEN,FEMALE
+2022,AR,Arkansas,39.6,Q036,Gender,Female,GEN,FEMALE
+2022,CA,California,27.9,Q036,Gender,Female,GEN,FEMALE
+2022,CO,Colorado,25.2,Q036,Gender,Female,GEN,FEMALE
+2022,CT,Connecticut,30.8,Q036,Gender,Female,GEN,FEMALE
+2022,DE,Delaware,40.5,Q036,Gender,Female,GEN,FEMALE
+2022,DC,District of Columbia,27.0,Q036,Gender,Female,GEN,FEMALE
+2022,FL,Florida,30.8,Q036,Gender,Female,GEN,FEMALE
+2022,GA,Georgia,39.9,Q036,Gender,Female,GEN,FEMALE
+2022,GU,Guam,29.9,Q036,Gender,Female,GEN,FEMALE
+2022,HI,Hawaii,24.8,Q036,Gender,Female,GEN,FEMALE
+2022,ID,Idaho,33.0,Q036,Gender,Female,GEN,FEMALE
+2022,IL,Illinois,35.7,Q036,Gender,Female,GEN,FEMALE
+2022,IN,Indiana,38.8,Q036,Gender,Female,GEN,FEMALE
+2022,IA,Iowa,39.1,Q036,Gender,Female,GEN,FEMALE
+2022,KS,Kansas,36.8,Q036,Gender,Female,GEN,FEMALE
+2022,KY,Kentucky,36.7,Q036,Gender,Female,GEN,FEMALE
+2022,LA,Louisiana,42.5,Q036,Gender,Female,GEN,FEMALE
+2022,ME,Maine,33.6,Q036,Gender,Female,GEN,FEMALE
+2022,MD,Maryland,34.8,Q036,Gender,Female,GEN,FEMALE
+2022,MA,Massachusetts,26.5,Q036,Gender,Female,GEN,FEMALE
+2022,MI,Michigan,35.6,Q036,Gender,Female,GEN,FEMALE
+2022,MN,Minnesota,32.6,Q036,Gender,Female,GEN,FEMALE
+2022,MS,Mississippi,41.9,Q036,Gender,Female,GEN,FEMALE
+2022,MO,Missouri,37.6,Q036,Gender,Female,GEN,FEMALE
+2022,MT,Montana,30.6,Q036,Gender,Female,GEN,FEMALE
+2022,US,National,34.1,Q036,Gender,Female,GEN,FEMALE
+2022,NE,Nebraska,35.4,Q036,Gender,Female,GEN,FEMALE
+2022,NV,Nevada,35.3,Q036,Gender,Female,GEN,FEMALE
+2022,NH,New Hampshire,30.4,Q036,Gender,Female,GEN,FEMALE
+2022,NJ,New Jersey,27.4,Q036,Gender,Female,GEN,FEMALE
+2022,NM,New Mexico,32.6,Q036,Gender,Female,GEN,FEMALE
+2022,NY,New York,30.3,Q036,Gender,Female,GEN,FEMALE
+2022,NC,North Carolina,36.1,Q036,Gender,Female,GEN,FEMALE
+2022,ND,North Dakota,33.6,Q036,Gender,Female,GEN,FEMALE
+2022,OH,Ohio,39.1,Q036,Gender,Female,GEN,FEMALE
+2022,OK,Oklahoma,41.6,Q036,Gender,Female,GEN,FEMALE
+2022,OR,Oregon,31.4,Q036,Gender,Female,GEN,FEMALE
+2022,PA,Pennsylvania,34.3,Q036,Gender,Female,GEN,FEMALE
+2022,PR,Puerto Rico,36.6,Q036,Gender,Female,GEN,FEMALE
+2022,RI,Rhode Island,31.9,Q036,Gender,Female,GEN,FEMALE
+2022,SC,South Carolina,37.2,Q036,Gender,Female,GEN,FEMALE
+2022,SD,South Dakota,37.0,Q036,Gender,Female,GEN,FEMALE
+2022,TN,Tennessee,42.7,Q036,Gender,Female,GEN,FEMALE
+2022,TX,Texas,36.7,Q036,Gender,Female,GEN,FEMALE
+2022,UT,Utah,30.5,Q036,Gender,Female,GEN,FEMALE
+2022,VT,Vermont,27.7,Q036,Gender,Female,GEN,FEMALE
+2022,VI,Virgin Islands,36.9,Q036,Gender,Female,GEN,FEMALE
+2022,VA,Virginia,36.3,Q036,Gender,Female,GEN,FEMALE
+2022,WA,Washington,31.8,Q036,Gender,Female,GEN,FEMALE
+2022,WV,West Virginia,40.5,Q036,Gender,Female,GEN,FEMALE
+2022,WI,Wisconsin,37.3,Q036,Gender,Female,GEN,FEMALE
+2022,WY,Wyoming,34.3,Q036,Gender,Female,GEN,FEMALE
+2022,AL,Alabama,35.8,Q036,Gender,Male,GEN,MALE
+2022,AK,Alaska,31.2,Q036,Gender,Male,GEN,MALE
+2022,AZ,Arizona,32.7,Q036,Gender,Male,GEN,MALE
+2022,AR,Arkansas,35.3,Q036,Gender,Male,GEN,MALE
+2022,CA,California,28.2,Q036,Gender,Male,GEN,MALE
+2022,CO,Colorado,24.9,Q036,Gender,Male,GEN,MALE
+2022,CT,Connecticut,30.4,Q036,Gender,Male,GEN,MALE
+2022,DE,Delaware,35.3,Q036,Gender,Male,GEN,MALE
+2022,DC,District of Columbia,21.5,Q036,Gender,Male,GEN,MALE
+2022,FL,Florida,32.4,Q036,Gender,Male,GEN,MALE
+2022,GA,Georgia,34.1,Q036,Gender,Male,GEN,MALE
+2022,GU,Guam,35.3,Q036,Gender,Male,GEN,MALE
+2022,HI,Hawaii,27.0,Q036,Gender,Male,GEN,MALE
+2022,ID,Idaho,33.4,Q036,Gender,Male,GEN,MALE
+2022,IL,Illinois,31.0,Q036,Gender,Male,GEN,MALE
+2022,IN,Indiana,36.6,Q036,Gender,Male,GEN,MALE
+2022,IA,Iowa,35.8,Q036,Gender,Male,GEN,MALE
+2022,KS,Kansas,34.7,Q036,Gender,Male,GEN,MALE
+2022,KY,Kentucky,38.7,Q036,Gender,Male,GEN,MALE
+2022,LA,Louisiana,37.6,Q036,Gender,Male,GEN,MALE
+2022,ME,Maine,32.6,Q036,Gender,Male,GEN,MALE
+2022,MD,Maryland,31.5,Q036,Gender,Male,GEN,MALE
+2022,MA,Massachusetts,28.0,Q036,Gender,Male,GEN,MALE
+2022,MI,Michigan,33.4,Q036,Gender,Male,GEN,MALE
+2022,MN,Minnesota,34.6,Q036,Gender,Male,GEN,MALE
+2022,MS,Mississippi,37.0,Q036,Gender,Male,GEN,MALE
+2022,MO,Missouri,35.3,Q036,Gender,Male,GEN,MALE
+2022,MT,Montana,30.4,Q036,Gender,Male,GEN,MALE
+2022,US,National,32.6,Q036,Gender,Male,GEN,MALE
+2022,NE,Nebraska,35.2,Q036,Gender,Male,GEN,MALE
+2022,NV,Nevada,31.9,Q036,Gender,Male,GEN,MALE
+2022,NH,New Hampshire,30.2,Q036,Gender,Male,GEN,MALE
+2022,NJ,New Jersey,30.7,Q036,Gender,Male,GEN,MALE
+2022,NM,New Mexico,32.2,Q036,Gender,Male,GEN,MALE
+2022,NY,New York,29.9,Q036,Gender,Male,GEN,MALE
+2022,NC,North Carolina,32.1,Q036,Gender,Male,GEN,MALE
+2022,ND,North Dakota,37.0,Q036,Gender,Male,GEN,MALE
+2022,OH,Ohio,37.2,Q036,Gender,Male,GEN,MALE
+2022,OK,Oklahoma,38.4,Q036,Gender,Male,GEN,MALE
+2022,OR,Oregon,30.5,Q036,Gender,Male,GEN,MALE
+2022,PA,Pennsylvania,32.4,Q036,Gender,Male,GEN,MALE
+2022,PR,Puerto Rico,31.4,Q036,Gender,Male,GEN,MALE
+2022,RI,Rhode Island,29.8,Q036,Gender,Male,GEN,MALE
+2022,SC,South Carolina,32.8,Q036,Gender,Male,GEN,MALE
+2022,SD,South Dakota,36.6,Q036,Gender,Male,GEN,MALE
+2022,TN,Tennessee,35.1,Q036,Gender,Male,GEN,MALE
+2022,TX,Texas,34.4,Q036,Gender,Male,GEN,MALE
+2022,UT,Utah,31.7,Q036,Gender,Male,GEN,MALE
+2022,VT,Vermont,26.0,Q036,Gender,Male,GEN,MALE
+2022,VI,Virgin Islands,27.1,Q036,Gender,Male,GEN,MALE
+2022,VA,Virginia,34.2,Q036,Gender,Male,GEN,MALE
+2022,WA,Washington,31.6,Q036,Gender,Male,GEN,MALE
+2022,WV,West Virginia,41.6,Q036,Gender,Male,GEN,MALE
+2022,WI,Wisconsin,38.0,Q036,Gender,Male,GEN,MALE
+2022,WY,Wyoming,34.3,Q036,Gender,Male,GEN,MALE

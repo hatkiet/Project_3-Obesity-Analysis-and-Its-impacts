@@ -1,0 +1,28 @@
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,US,National,20.5,Q036,Age (years),18 - 24,AGEYR,AGEYR1824
+2022,US,National,32.2,Q036,Age (years),25 - 34,AGEYR,AGEYR2534
+2022,US,National,37.4,Q036,Age (years),35 - 44,AGEYR,AGEYR3544
+2022,US,National,39.9,Q036,Age (years),45 - 54,AGEYR,AGEYR4554
+2022,US,National,37.4,Q036,Age (years),55 - 64,AGEYR,AGEYR5564
+2022,US,National,30.6,Q036,Age (years),65 or older,AGEYR,AGEYR65PLUS
+2022,US,National,27.2,Q036,Education,College graduate,EDU,EDUCOGRAD
+2022,US,National,35.7,Q036,Education,High school graduate,EDU,EDUHSGRAD
+2022,US,National,37.6,Q036,Education,Less than high school,EDU,EDUHS
+2022,US,National,35.9,Q036,Education,Some college or technical school,EDU,EDUCOTEC
+2022,US,National,34.1,Q036,Gender,Female,GEN,FEMALE
+2022,US,National,32.6,Q036,Gender,Male,GEN,MALE
+2022,US,National,38.4,Q036,Income,"$15,000 - $24,999",INC,INC1525
+2022,US,National,36.5,Q036,Income,"$25,000 - $34,999",INC,INC2535
+2022,US,National,35.6,Q036,Income,"$35,000 - $49,999",INC,INC3550
+2022,US,National,35.7,Q036,Income,"$50,000 - $74,999",INC,INC5075
+2022,US,National,34.1,Q036,Income,"$75,000 or greater",INC,INC75PLUS
+2022,US,National,29.5,Q036,Income,Data not reported,INC,INCNR
+2022,US,National,38.2,Q036,Income,"Less than $15,000",INC,INCLESS15
+2022,US,National,33.3,Q036,Total,Total,OVR,OVERALL
+2022,US,National,33.7,Q036,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,US,National,38.8,Q036,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,US,National,13.3,Q036,Race/Ethnicity,Asian,RACE,RACEASN
+2022,US,National,35.3,Q036,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,US,National,36.7,Q036,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,US,National,43.0,Q036,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,US,National,32.5,Q036,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
