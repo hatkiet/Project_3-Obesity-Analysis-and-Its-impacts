@@ -1,365 +1,386 @@
-YearStart,YearEnd,LocationAbbr,LocationDesc,Question,Data_Value,Low_Confidence_Limit,High_Confidence_Limit ,Sample_Size,Age(years),Education,Gender,Income,Race/Ethnicity,GeoLocation,ClassID,TopicID,QuestionID,LocationID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,26.9,21.7,32.8,455,,,,"$15,000 - $24,999",,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,23.2,17.8,29.6,325,,,,"$15,000 - $24,999",,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,30.1,25,35.7,796,,,,"$15,000 - $24,999",,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,31.4,26.6,36.6,584,,,,"$15,000 - $24,999",,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,30.5,25.8,35.7,679,,,,"$15,000 - $24,999",,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,33,28,38.4,557,,,,"$15,000 - $24,999",,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,30.4,24.7,36.7,548,,,,"$15,000 - $24,999",,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,28.8,22,36.7,262,,,,"$15,000 - $24,999",,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,26.1,18.3,35.7,156,,,,"$15,000 - $24,999",,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,31.1,25.3,37.5,1114,,,,"$15,000 - $24,999",,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,28.1,23.7,32.9,778,,,,"$15,000 - $24,999",,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,28.3,23.1,34,603,,,,"$15,000 - $24,999",,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,31.8,26.4,37.6,417,,,,"$15,000 - $24,999",,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,30.5,24.8,36.9,372,,,,"$15,000 - $24,999",,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,27.2,23.4,31.3,806,,,,"$15,000 - $24,999",,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,27.3,23.3,31.8,683,,,,"$15,000 - $24,999",,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,28,23.6,32.9,742,,,,"$15,000 - $24,999",,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,26.6,20.9,33.3,368,,,,"$15,000 - $24,999",,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,28.8,24.1,34,577,,,,"$15,000 - $24,999",,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,33.6,28.6,38.9,833,,,,"$15,000 - $24,999",,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,33.4,28.7,38.5,1008,,,,"$15,000 - $24,999",,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,31.6,26.6,37.1,537,,,,"$15,000 - $24,999",,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,26.5,22.4,31.1,663,,,,"$15,000 - $24,999",,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,29.6,25.5,34,836,,,,"$15,000 - $24,999",,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,31.1,25.5,37.2,455,,,,"$15,000 - $24,999",,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,28.7,23.5,34.4,553,,,,"$15,000 - $24,999",,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,32,27.2,37.1,559,,,,"$15,000 - $24,999",,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,30.6,29.5,31.7,30654,,,,"$15,000 - $24,999",,,OWS,OWS1,Q037,59,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,30.8,26.1,36,650,,,,"$15,000 - $24,999",,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,30.5,22.9,39.4,233,,,,"$15,000 - $24,999",,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,31.2,24,39.4,414,,,,"$15,000 - $24,999",,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,33.3,27.1,40,426,,,,"$15,000 - $24,999",,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,38,32.1,44.2,484,,,,"$15,000 - $24,999",,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,31.4,27.9,35.2,1293,,,,"$15,000 - $24,999",,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.3,26.3,39,348,,,,"$15,000 - $24,999",,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,34.4,27.3,42.2,263,,,,"$15,000 - $24,999",,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,28.4,24.8,32.2,1336,,,,"$15,000 - $24,999",,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,31.1,26.3,36.4,499,,,,"$15,000 - $24,999",,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,31.4,25.8,37.6,407,,,,"$15,000 - $24,999",,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,29,20.6,39,334,,,,"$15,000 - $24,999",,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,38,31.6,44.9,420,,,,"$15,000 - $24,999",,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.4,27.9,37.2,827,,,,"$15,000 - $24,999",,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,27.8,19,38.8,509,,,,"$15,000 - $24,999",,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,27.5,22.4,33.4,486,,,,"$15,000 - $24,999",,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,34.1,29.4,39.1,1093,,,,"$15,000 - $24,999",,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,30.5,24.2,37.7,346,,,,"$15,000 - $24,999",,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,30,24.3,36.3,478,,,,"$15,000 - $24,999",,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,32.4,26.9,38.3,622,,,,"$15,000 - $24,999",,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,30.2,26.9,33.8,1324,,,,"$15,000 - $24,999",,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,33.4,28.5,38.8,527,,,,"$15,000 - $24,999",,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,28.2,24.2,32.6,785,,,,"$15,000 - $24,999",,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,29.4,23.1,36.5,284,,,,"$15,000 - $24,999",,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,"$15,000 - $24,999",INC,INC1525
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,31.8,25.6,38.7,468,,,,"$25,000 - $34,999",,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,38.2,31.8,44.9,410,,,,"$25,000 - $34,999",,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,30,25.8,34.6,1082,,,,"$25,000 - $34,999",,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,29.8,24.8,35.3,546,,,,"$25,000 - $34,999",,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,34.9,30.3,39.8,871,,,,"$25,000 - $34,999",,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,31.9,27.7,36.4,702,,,,"$25,000 - $34,999",,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,30.3,25.1,36.1,632,,,,"$25,000 - $34,999",,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,27.3,21.7,33.8,364,,,,"$25,000 - $34,999",,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,28.2,20.3,37.7,192,,,,"$25,000 - $34,999",,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,31.5,26.6,36.8,1285,,,,"$25,000 - $34,999",,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,25.7,21.6,30.2,842,,,,"$25,000 - $34,999",,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,36.5,31.3,42,686,,,,"$25,000 - $34,999",,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,34.3,30.3,38.5,816,,,,"$25,000 - $34,999",,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,35.1,29.1,41.6,401,,,,"$25,000 - $34,999",,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,33.2,29.5,37,931,,,,"$25,000 - $34,999",,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,31.7,27.6,36.1,871,,,,"$25,000 - $34,999",,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,32.4,28.5,36.5,1048,,,,"$25,000 - $34,999",,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,27.1,22.1,32.7,444,,,,"$25,000 - $34,999",,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,27.3,23.1,32,604,,,,"$25,000 - $34,999",,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,30.3,26.3,34.5,1077,,,,"$25,000 - $34,999",,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,32.3,28,36.9,1225,,,,"$25,000 - $34,999",,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,34.2,29.3,39.4,713,,,,"$25,000 - $34,999",,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,31.1,27.4,35,878,,,,"$25,000 - $34,999",,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,32.2,28.9,35.8,1254,,,,"$25,000 - $34,999",,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,29.9,25.3,35,510,,,,"$25,000 - $34,999",,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,31.7,26.7,37.1,570,,,,"$25,000 - $34,999",,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,37.3,32.8,42.1,730,,,,"$25,000 - $34,999",,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,32.2,31.2,33.2,38450,,,,"$25,000 - $34,999",,,OWS,OWS1,Q037,59,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,37.8,33.4,42.4,880,,,,"$25,000 - $34,999",,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,28.8,22,36.6,312,,,,"$25,000 - $34,999",,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,33.9,28.3,40.1,502,,,,"$25,000 - $34,999",,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,38.8,32.3,45.7,452,,,,"$25,000 - $34,999",,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,36.8,31.4,42.5,639,,,,"$25,000 - $34,999",,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,32.6,29.2,36.1,1466,,,,"$25,000 - $34,999",,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.7,27,39,417,,,,"$25,000 - $34,999",,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,32.6,26.6,39.2,350,,,,"$25,000 - $34,999",,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,32.6,29.4,36,1684,,,,"$25,000 - $34,999",,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,28.1,24.2,32.3,670,,,,"$25,000 - $34,999",,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,35.9,30.1,42.1,511,,,,"$25,000 - $34,999",,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,33.3,27.1,40.2,404,,,,"$25,000 - $34,999",,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,34.1,28.2,40.6,408,,,,"$25,000 - $34,999",,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,31.1,27,35.6,929,,,,"$25,000 - $34,999",,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,34.5,24.9,45.5,742,,,,"$25,000 - $34,999",,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,29.2,24.4,34.5,514,,,,"$25,000 - $34,999",,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,32.9,28.3,37.8,1247,,,,"$25,000 - $34,999",,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,34.7,30.4,39.4,798,,,,"$25,000 - $34,999",,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,31,25.9,36.5,588,,,,"$25,000 - $34,999",,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,26.3,22.4,30.7,846,,,,"$25,000 - $34,999",,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,33.9,31.1,36.8,1883,,,,"$25,000 - $34,999",,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,36.6,31.9,41.5,602,,,,"$25,000 - $34,999",,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,29.4,25.9,33.2,1048,,,,"$25,000 - $34,999",,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,32.3,26.9,38.1,406,,,,"$25,000 - $34,999",,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,"$25,000 - $34,999",INC,INC2535
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,34.7,29.1,40.7,448,,,,"$35,000 - $49,999",,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,37,31.6,42.8,539,,,,"$35,000 - $49,999",,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,33.9,29.3,38.8,1168,,,,"$35,000 - $49,999",,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,31.1,26.3,36.4,589,,,,"$35,000 - $49,999",,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,32.5,28.2,37.2,862,,,,"$35,000 - $49,999",,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,31.7,27.5,36.1,846,,,,"$35,000 - $49,999",,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,35.7,30.3,41.6,652,,,,"$35,000 - $49,999",,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,36,29.2,43.3,400,,,,"$35,000 - $49,999",,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,30.6,22.5,40.1,174,,,,"$35,000 - $49,999",,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,35.3,30.2,40.9,1404,,,,"$35,000 - $49,999",,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,29.1,25.1,33.4,902,,,,"$35,000 - $49,999",,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,34.1,29.8,38.7,800,,,,"$35,000 - $49,999",,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,38.2,34,42.6,718,,,,"$35,000 - $49,999",,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,30.4,24.6,36.9,335,,,,"$35,000 - $49,999",,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,29.8,26.5,33.4,1064,,,,"$35,000 - $49,999",,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,34.6,31,38.3,1088,,,,"$35,000 - $49,999",,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,32,28.5,35.8,1370,,,,"$35,000 - $49,999",,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,32,25.9,38.8,416,,,,"$35,000 - $49,999",,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,33.2,28.2,38.5,578,,,,"$35,000 - $49,999",,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,30.9,27.5,34.5,1248,,,,"$35,000 - $49,999",,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,34.3,30.1,38.8,1309,,,,"$35,000 - $49,999",,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,31.6,27.6,35.9,842,,,,"$35,000 - $49,999",,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,32.7,29.1,36.6,1016,,,,"$35,000 - $49,999",,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,33.7,30.7,36.9,1651,,,,"$35,000 - $49,999",,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,29.6,24.9,34.8,534,,,,"$35,000 - $49,999",,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,34.1,29.5,38.9,821,,,,"$35,000 - $49,999",,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,36.4,32.5,40.6,862,,,,"$35,000 - $49,999",,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,33.2,32.2,34.1,43027,,,,"$35,000 - $49,999",,,OWS,OWS1,Q037,59,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,36.4,32.3,40.7,980,,,,"$35,000 - $49,999",,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,34.3,26.7,42.7,322,,,,"$35,000 - $49,999",,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,36.1,30.4,42.2,638,,,,"$35,000 - $49,999",,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,36.4,30.7,42.5,501,,,,"$35,000 - $49,999",,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,38,31.8,44.6,572,,,,"$35,000 - $49,999",,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,33.8,30.2,37.5,1479,,,,"$35,000 - $49,999",,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,33.6,28.2,39.6,441,,,,"$35,000 - $49,999",,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,34.8,29.6,40.3,458,,,,"$35,000 - $49,999",,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,31.6,28.3,35,1746,,,,"$35,000 - $49,999",,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,33.5,29.2,38,678,,,,"$35,000 - $49,999",,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,36.3,31.3,41.6,576,,,,"$35,000 - $49,999",,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,37.2,31.2,43.6,500,,,,"$35,000 - $49,999",,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,31.2,25.3,37.8,457,,,,"$35,000 - $49,999",,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.3,28.6,36.1,1060,,,,"$35,000 - $49,999",,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,34.1,25.2,44.3,958,,,,"$35,000 - $49,999",,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,31.6,27,36.5,625,,,,"$35,000 - $49,999",,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,33.3,29,38,1226,,,,"$35,000 - $49,999",,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,32.1,28,36.5,821,,,,"$35,000 - $49,999",,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,30.5,26.6,34.8,797,,,,"$35,000 - $49,999",,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,29.4,25.5,33.7,971,,,,"$35,000 - $49,999",,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,33.4,30.8,36.2,2263,,,,"$35,000 - $49,999",,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,33.9,29.4,38.7,579,,,,"$35,000 - $49,999",,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,32,28.5,35.7,1231,,,,"$35,000 - $49,999",,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,35.3,30.2,40.7,512,,,,"$35,000 - $49,999",,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,"$35,000 - $49,999",INC,INC3550
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,30.6,25.9,35.8,583,,,,"$50,000 - $74,999",,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,39,34.4,43.8,779,,,,"$50,000 - $74,999",,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,38,33.6,42.5,1429,,,,"$50,000 - $74,999",,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,32.5,28.1,37.1,661,,,,"$50,000 - $74,999",,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,34.7,30.5,39.1,1075,,,,"$50,000 - $74,999",,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,35.9,32.7,39.3,1172,,,,"$50,000 - $74,999",,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,35.6,31.7,39.8,987,,,,"$50,000 - $74,999",,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,35.7,30.3,41.4,540,,,,"$50,000 - $74,999",,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,32.6,25.8,40.2,286,,,,"$50,000 - $74,999",,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,37,32.2,42.1,1704,,,,"$50,000 - $74,999",,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,29.1,25.6,33,1127,,,,"$50,000 - $74,999",,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,32.6,28.8,36.6,1146,,,,"$50,000 - $74,999",,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,34.4,30.9,38.1,904,,,,"$50,000 - $74,999",,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,36.5,31.4,41.9,511,,,,"$50,000 - $74,999",,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,34.5,31.3,37.9,1311,,,,"$50,000 - $74,999",,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,33.5,30.2,36.8,1331,,,,"$50,000 - $74,999",,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,34.4,31.4,37.6,1760,,,,"$50,000 - $74,999",,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,41.5,34.9,48.4,469,,,,"$50,000 - $74,999",,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,35.3,30.6,40.3,646,,,,"$50,000 - $74,999",,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,36,32.5,39.6,1439,,,,"$50,000 - $74,999",,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,34.4,30.9,38,1763,,,,"$50,000 - $74,999",,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,36.5,32.8,40.3,1170,,,,"$50,000 - $74,999",,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,34,30.7,37.5,1281,,,,"$50,000 - $74,999",,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,36.6,34,39.3,2314,,,,"$50,000 - $74,999",,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,34.1,28.8,39.7,534,,,,"$50,000 - $74,999",,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,35.1,31.2,39.2,982,,,,"$50,000 - $74,999",,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,34.8,31.5,38.3,1090,,,,"$50,000 - $74,999",,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,34.9,34.1,35.8,55263,,,,"$50,000 - $74,999",,,OWS,OWS1,Q037,59,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,32.4,28.8,36.1,1209,,,,"$50,000 - $74,999",,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,35.3,29.2,41.9,420,,,,"$50,000 - $74,999",,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,38.9,33.9,44.1,845,,,,"$50,000 - $74,999",,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,37,32.4,41.7,753,,,,"$50,000 - $74,999",,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,35.3,30.2,40.8,646,,,,"$50,000 - $74,999",,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,34.8,31.7,38.1,1918,,,,"$50,000 - $74,999",,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,35.7,30.7,40.9,518,,,,"$50,000 - $74,999",,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,37.2,32.8,41.9,638,,,,"$50,000 - $74,999",,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,33.2,30.3,36.3,2159,,,,"$50,000 - $74,999",,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,36.8,32.8,40.9,821,,,,"$50,000 - $74,999",,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,34.9,30.7,39.3,668,,,,"$50,000 - $74,999",,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,33.3,28,39.1,600,,,,"$50,000 - $74,999",,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,37,31.9,42.3,690,,,,"$50,000 - $74,999",,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,37.6,33.8,41.6,1185,,,,"$50,000 - $74,999",,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,38.2,29.6,47.6,1085,,,,"$50,000 - $74,999",,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,33.3,28.7,38.3,646,,,,"$50,000 - $74,999",,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,34.7,30.5,39.1,1536,,,,"$50,000 - $74,999",,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,34.6,31,38.4,1228,,,,"$50,000 - $74,999",,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,35.4,31.8,39.1,1238,,,,"$50,000 - $74,999",,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,33.5,29.9,37.3,1299,,,,"$50,000 - $74,999",,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,35.3,33.1,37.5,3271,,,,"$50,000 - $74,999",,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,30.2,26.1,34.7,642,,,,"$50,000 - $74,999",,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,35.1,32,38.2,1591,,,,"$50,000 - $74,999",,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,37.3,32.8,42,663,,,,"$50,000 - $74,999",,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,"$50,000 - $74,999",INC,INC5075
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,35.6,29.8,41.9,420,,,,"$75,000 or greater",,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,40.8,35.8,46,735,,,,"$75,000 or greater",,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,36.2,31.5,41.2,970,,,,"$75,000 or greater",,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,37.3,31.8,43.1,436,,,,"$75,000 or greater",,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,39.4,35.1,43.9,966,,,,"$75,000 or greater",,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,38.4,34.9,42,1054,,,,"$75,000 or greater",,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,39.6,34.9,44.6,944,,,,"$75,000 or greater",,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,32.2,26.8,38.2,470,,,,"$75,000 or greater",,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,29.4,23.1,36.5,265,,,,"$75,000 or greater",,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,37.9,32.9,43.1,1346,,,,"$75,000 or greater",,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,36.3,31.6,41.3,814,,,,"$75,000 or greater",,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,35,30.9,39.3,992,,,,"$75,000 or greater",,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,37.6,33.3,42,650,,,,"$75,000 or greater",,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,35,29.7,40.6,442,,,,"$75,000 or greater",,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,33.3,29.7,37.1,964,,,,"$75,000 or greater",,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,38,34.4,41.7,1054,,,,"$75,000 or greater",,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,36.1,32.5,39.7,1283,,,,"$75,000 or greater",,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,35.7,29.1,42.8,332,,,,"$75,000 or greater",,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,33.6,28.5,39.2,521,,,,"$75,000 or greater",,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,36.7,33,40.6,1107,,,,"$75,000 or greater",,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,36.1,32.4,39.9,1651,,,,"$75,000 or greater",,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,33.5,29.8,37.4,1017,,,,"$75,000 or greater",,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,36.9,33.1,40.8,1038,,,,"$75,000 or greater",,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,35.8,33.1,38.7,2018,,,,"$75,000 or greater",,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,35.7,29.6,42.3,359,,,,"$75,000 or greater",,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,35.2,30.9,39.7,800,,,,"$75,000 or greater",,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,33.9,30.1,37.9,836,,,,"$75,000 or greater",,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,36.2,35.3,37.1,45429,,,,"$75,000 or greater",,,OWS,OWS1,Q037,59,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,37.1,32.8,41.6,852,,,,"$75,000 or greater",,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,39.2,31.5,47.4,352,,,,"$75,000 or greater",,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,35.8,30.9,41,768,,,,"$75,000 or greater",,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,39.3,34.8,44,765,,,,"$75,000 or greater",,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,35.5,29.2,42.4,479,,,,"$75,000 or greater",,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,33.5,30.4,36.8,1619,,,,"$75,000 or greater",,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,40.1,34.4,46,445,,,,"$75,000 or greater",,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,38,33.3,43,543,,,,"$75,000 or greater",,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,35.5,32.2,38.9,1658,,,,"$75,000 or greater",,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,35.7,31.1,40.6,558,,,,"$75,000 or greater",,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,35.5,31.1,40.1,618,,,,"$75,000 or greater",,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,37.8,32,44,505,,,,"$75,000 or greater",,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,37.7,32.5,43.1,639,,,,"$75,000 or greater",,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,37.7,33.7,41.9,996,,,,"$75,000 or greater",,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,35.1,26.6,44.7,829,,,,"$75,000 or greater",,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,31.6,26.5,37.3,495,,,,"$75,000 or greater",,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,34.6,29.8,39.7,1286,,,,"$75,000 or greater",,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,35.6,32.3,39.1,1263,,,,"$75,000 or greater",,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,35.3,31.3,39.5,1088,,,,"$75,000 or greater",,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,31.2,27.5,35.2,1076,,,,"$75,000 or greater",,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,34.7,32.4,37,2864,,,,"$75,000 or greater",,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,38.3,33.1,43.7,491,,,,"$75,000 or greater",,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,32.1,28.8,35.7,1262,,,,"$75,000 or greater",,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,40.3,35.3,45.5,494,,,,"$75,000 or greater",,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,"$75,000 or greater",INC,INC75PLUS
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,37.2,34,40.6,1584,,,,Data not reported,,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,Data not reported,INC,INCNR
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,37.3,34.6,40.1,2257,,,,Data not reported,,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,Data not reported,INC,INCNR
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,33.4,30.9,36,3211,,,,Data not reported,,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,Data not reported,INC,INCNR
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,37.7,34.5,41,1505,,,,Data not reported,,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,Data not reported,INC,INCNR
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,35,33.1,37,4500,,,,Data not reported,,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,Data not reported,INC,INCNR
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,37,35,38.9,3770,,,,Data not reported,,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,Data not reported,INC,INCNR
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,36.1,34,38.3,4142,,,,Data not reported,,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,Data not reported,INC,INCNR
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,35.7,32.4,39.1,1375,,,,Data not reported,,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,Data not reported,INC,INCNR
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,32.5,29.6,35.5,1663,,,,Data not reported,,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,Data not reported,INC,INCNR
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,34.5,31.7,37.3,4378,,,,Data not reported,,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,Data not reported,INC,INCNR
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,36,33.5,38.6,3129,,,,Data not reported,,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,Data not reported,INC,INCNR
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,35.1,32.6,37.7,2674,,,,Data not reported,,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,Data not reported,INC,INCNR
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,35.2,32.7,37.7,1991,,,,Data not reported,,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,Data not reported,INC,INCNR
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,35.5,32.5,38.6,1426,,,,Data not reported,,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,Data not reported,INC,INCNR
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,36.3,34.2,38.3,3278,,,,Data not reported,,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,Data not reported,INC,INCNR
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,34.7,32.5,36.9,2763,,,,Data not reported,,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,Data not reported,INC,INCNR
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,33.9,31.9,35.9,3611,,,,Data not reported,,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,Data not reported,INC,INCNR
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,36.9,33.5,40.5,1419,,,,Data not reported,,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,Data not reported,INC,INCNR
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,33.3,30.5,36.2,1819,,,,Data not reported,,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,Data not reported,INC,INCNR
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,33.4,31.3,35.6,3676,,,,Data not reported,,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,Data not reported,INC,INCNR
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,35,33.3,36.8,6786,,,,Data not reported,,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,Data not reported,INC,INCNR
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,35.6,33.8,37.5,5070,,,,Data not reported,,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,Data not reported,INC,INCNR
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,34,32,36,3448,,,,Data not reported,,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,Data not reported,INC,INCNR
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,35.9,34.4,37.4,6642,,,,Data not reported,,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,Data not reported,INC,INCNR
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,36.1,32.8,39.5,1259,,,,Data not reported,,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,Data not reported,INC,INCNR
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,35.6,33.1,38.1,2623,,,,Data not reported,,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,Data not reported,INC,INCNR
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,36.8,34.3,39.3,2121,,,,Data not reported,,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,Data not reported,INC,INCNR
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,35.3,34.8,35.8,156576,,,,Data not reported,,,OWS,OWS1,Q037,59,Income,Data not reported,INC,INCNR
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,36.4,33.5,39.4,1916,,,,Data not reported,,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,Data not reported,INC,INCNR
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,34.2,30.4,38.3,1132,,,,Data not reported,,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,Data not reported,INC,INCNR
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,38.2,35.6,40.9,2558,,,,Data not reported,,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,Data not reported,INC,INCNR
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,37,34.8,39.2,3611,,,,Data not reported,,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,Data not reported,INC,INCNR
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,37.9,34.1,41.9,1309,,,,Data not reported,,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,Data not reported,INC,INCNR
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,34.5,32.9,36.2,6472,,,,Data not reported,,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,Data not reported,INC,INCNR
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,35.9,32.9,39,1660,,,,Data not reported,,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,Data not reported,INC,INCNR
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,35.3,32.4,38.2,1412,,,,Data not reported,,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,Data not reported,INC,INCNR
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,34.2,32.5,36.1,5506,,,,Data not reported,,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,Data not reported,INC,INCNR
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,31.9,29.4,34.5,1734,,,,Data not reported,,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,Data not reported,INC,INCNR
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,38.1,35.7,40.6,2236,,,,Data not reported,,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,Data not reported,INC,INCNR
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,34.4,31.3,37.6,1654,,,,Data not reported,,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,Data not reported,INC,INCNR
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,37.8,35.1,40.6,2249,,,,Data not reported,,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,Data not reported,INC,INCNR
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,37.4,35.1,39.6,3353,,,,Data not reported,,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,Data not reported,INC,INCNR
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,36.1,31.2,41.3,2466,,,,Data not reported,,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,Data not reported,INC,INCNR
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,34.2,31.2,37.3,1621,,,,Data not reported,,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,Data not reported,INC,INCNR
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,36.6,34.1,39.1,5021,,,,Data not reported,,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,Data not reported,INC,INCNR
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,34.7,32.8,36.5,4035,,,,Data not reported,,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,Data not reported,INC,INCNR
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,36.2,33.9,38.5,3304,,,,Data not reported,,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,Data not reported,INC,INCNR
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,34.5,32.5,36.6,4246,,,,Data not reported,,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,Data not reported,INC,INCNR
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,35.4,34.2,36.6,10448,,,,Data not reported,,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,Data not reported,INC,INCNR
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,33.1,30.2,36.2,1463,,,,Data not reported,,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,Data not reported,INC,INCNR
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,35,33,37.2,3721,,,,Data not reported,,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,Data not reported,INC,INCNR
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,36.5,33.3,39.9,1329,,,,Data not reported,,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,Data not reported,INC,INCNR
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,28.4,20.8,37.5,250,,,,"Less than $15,000",,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,18.4,13.1,25.2,228,,,,"Less than $15,000",,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,29.2,23,36.3,524,,,,"Less than $15,000",,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,28.2,22.5,34.8,331,,,,"Less than $15,000",,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,33,27,39.7,513,,,,"Less than $15,000",,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,30.4,24.2,37.5,287,,,,"Less than $15,000",,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,36.5,28,45.9,307,,,,"Less than $15,000",,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,37.1,27,48.5,139,,,,"Less than $15,000",,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,24.2,16.3,34.5,146,,,,"Less than $15,000",,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,30.5,22.8,39.5,574,,,,"Less than $15,000",,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,23.7,18.5,29.8,426,,,,"Less than $15,000",,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,26.4,20.4,33.4,379,,,,"Less than $15,000",,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,35.1,27.2,43.8,201,,,,"Less than $15,000",,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,22.9,17.1,29.9,243,,,,"Less than $15,000",,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,27.6,22.6,33.3,480,,,,"Less than $15,000",,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,28.8,22.5,36,324,,,,"Less than $15,000",,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,33.3,26.3,41.2,365,,,,"Less than $15,000",,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,25.4,18.1,34.4,232,,,,"Less than $15,000",,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,25.1,20,31,372,,,,"Less than $15,000",,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,21.4,15.4,29,400,,,,"Less than $15,000",,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,28.1,22.8,34.1,521,,,,"Less than $15,000",,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,30.3,23.7,37.8,352,,,,"Less than $15,000",,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,24.9,20.1,30.4,426,,,,"Less than $15,000",,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,28.5,22.8,34.9,493,,,,"Less than $15,000",,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,26.1,20,33.2,284,,,,"Less than $15,000",,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,26.6,21.5,32.4,497,,,,"Less than $15,000",,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,31.3,25.5,37.8,334,,,,"Less than $15,000",,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,28.8,27.4,30.2,18150,,,,"Less than $15,000",,,OWS,OWS1,Q037,59,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,29,23,35.9,366,,,,"Less than $15,000",,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,28.6,18.8,40.9,135,,,,"Less than $15,000",,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,27.7,19.6,37.6,203,,,,"Less than $15,000",,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,28.4,19.7,39.2,252,,,,"Less than $15,000",,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,34.4,28.2,41.3,316,,,,"Less than $15,000",,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,34.6,29.9,39.8,759,,,,"Less than $15,000",,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.3,23.8,42.2,206,,,,"Less than $15,000",,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,35,25,46.5,132,,,,"Less than $15,000",,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,25.2,20.7,30.3,779,,,,"Less than $15,000",,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,25.8,20.7,31.6,318,,,,"Less than $15,000",,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,28.2,21.9,35.3,258,,,,"Less than $15,000",,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,28.9,20,39.7,193,,,,"Less than $15,000",,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,32.9,25,41.8,257,,,,"Less than $15,000",,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,22.5,18,27.9,459,,,,"Less than $15,000",,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,42.1,28.1,57.4,245,,,,"Less than $15,000",,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,29.7,23.4,36.8,323,,,,"Less than $15,000",,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,28.1,22.5,34.4,795,,,,"Less than $15,000",,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,26.9,20.4,34.5,228,,,,"Less than $15,000",,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,27.8,21,35.9,275,,,,"Less than $15,000",,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,20.6,15.1,27.4,318,,,,"Less than $15,000",,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,31.6,27.1,36.5,816,,,,"Less than $15,000",,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,27,21.4,33.3,336,,,,"Less than $15,000",,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,26.7,21.2,32.9,442,,,,"Less than $15,000",,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Income,"Less than $15,000",INC,INCLESS15
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,24.5,16.3,35.3,111,,,,"Less than $15,000",,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Income,"Less than $15,000",INC,INCLESS15
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,AL,Alabama,26.9,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,AK,Alaska,23.2,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,AZ,Arizona,30.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,AR,Arkansas,31.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,CA,California,30.5,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,CO,Colorado,33.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,CT,Connecticut,30.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,DE,Delaware,28.8,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,DC,District of Columbia,26.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,FL,Florida,31.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,GA,Georgia,28.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,GU,Guam,33.8,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,HI,Hawaii,28.3,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,ID,Idaho,31.8,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,IL,Illinois,30.5,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,IN,Indiana,27.2,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,IA,Iowa,27.3,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,KS,Kansas,28.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,KY,Kentucky,26.6,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,LA,Louisiana,28.8,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,ME,Maine,33.6,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MD,Maryland,33.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MA,Massachusetts,31.6,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MI,Michigan,26.5,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MN,Minnesota,29.6,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MS,Mississippi,31.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MO,Missouri,28.7,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,MT,Montana,32.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,US,National,30.6,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NE,Nebraska,30.8,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NV,Nevada,30.5,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NH,New Hampshire,31.2,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NJ,New Jersey,33.3,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NM,New Mexico,38.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NY,New York,31.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,NC,North Carolina,32.3,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,ND,North Dakota,34.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,OH,Ohio,28.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,OK,Oklahoma,31.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,OR,Oregon,31.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,PA,Pennsylvania,29.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,PR,Puerto Rico,37.7,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,RI,Rhode Island,38.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,SC,South Carolina,32.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,SD,South Dakota,27.8,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,TN,Tennessee,27.5,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,TX,Texas,34.1,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,UT,Utah,30.5,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,VT,Vermont,30.0,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,VI,Virgin Islands,25.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,VA,Virginia,32.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,WA,Washington,30.2,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,WV,West Virginia,33.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,WI,Wisconsin,28.2,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,WY,Wyoming,29.4,Q037,Income,"$15,000 - $24,999",INC,INC1525
+2022,AL,Alabama,31.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,AK,Alaska,38.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,AZ,Arizona,30.0,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,AR,Arkansas,29.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,CA,California,34.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,CO,Colorado,31.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,CT,Connecticut,30.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,DE,Delaware,27.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,DC,District of Columbia,28.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,FL,Florida,31.5,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,GA,Georgia,25.7,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,GU,Guam,38.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,HI,Hawaii,36.5,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,ID,Idaho,34.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,IL,Illinois,35.1,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,IN,Indiana,33.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,IA,Iowa,31.7,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,KS,Kansas,32.4,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,KY,Kentucky,27.1,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,LA,Louisiana,27.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,ME,Maine,30.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MD,Maryland,32.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MA,Massachusetts,34.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MI,Michigan,31.1,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MN,Minnesota,32.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MS,Mississippi,29.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MO,Missouri,31.7,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,MT,Montana,37.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,US,National,32.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NE,Nebraska,37.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NV,Nevada,28.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NH,New Hampshire,33.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NJ,New Jersey,38.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NM,New Mexico,36.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NY,New York,32.6,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,NC,North Carolina,32.7,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,ND,North Dakota,32.6,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,OH,Ohio,32.6,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,OK,Oklahoma,28.1,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,OR,Oregon,35.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,PA,Pennsylvania,33.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,PR,Puerto Rico,39.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,RI,Rhode Island,34.1,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,SC,South Carolina,31.1,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,SD,South Dakota,34.5,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,TN,Tennessee,29.2,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,TX,Texas,32.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,UT,Utah,34.7,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,VT,Vermont,31.0,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,VI,Virgin Islands,32.8,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,VA,Virginia,26.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,WA,Washington,33.9,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,WV,West Virginia,36.6,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,WI,Wisconsin,29.4,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,WY,Wyoming,32.3,Q037,Income,"$25,000 - $34,999",INC,INC2535
+2022,AL,Alabama,34.7,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,AK,Alaska,37.0,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,AZ,Arizona,33.9,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,AR,Arkansas,31.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,CA,California,32.5,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,CO,Colorado,31.7,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,CT,Connecticut,35.7,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,DE,Delaware,36.0,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,DC,District of Columbia,30.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,FL,Florida,35.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,GA,Georgia,29.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,GU,Guam,35.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,HI,Hawaii,34.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,ID,Idaho,38.2,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,IL,Illinois,30.4,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,IN,Indiana,29.8,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,IA,Iowa,34.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,KS,Kansas,32.0,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,KY,Kentucky,32.0,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,LA,Louisiana,33.2,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,ME,Maine,30.9,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MD,Maryland,34.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MA,Massachusetts,31.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MI,Michigan,32.7,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MN,Minnesota,33.7,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MS,Mississippi,29.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MO,Missouri,34.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,MT,Montana,36.4,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,US,National,33.2,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NE,Nebraska,36.4,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NV,Nevada,34.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NH,New Hampshire,36.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NJ,New Jersey,36.4,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NM,New Mexico,38.0,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NY,New York,33.8,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,NC,North Carolina,33.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,ND,North Dakota,34.8,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,OH,Ohio,31.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,OK,Oklahoma,33.5,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,OR,Oregon,36.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,PA,Pennsylvania,37.2,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,PR,Puerto Rico,36.7,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,RI,Rhode Island,31.2,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,SC,South Carolina,32.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,SD,South Dakota,34.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,TN,Tennessee,31.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,TX,Texas,33.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,UT,Utah,32.1,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,VT,Vermont,30.5,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,VI,Virgin Islands,26.6,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,VA,Virginia,29.4,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,WA,Washington,33.4,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,WV,West Virginia,33.9,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,WI,Wisconsin,32.0,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,WY,Wyoming,35.3,Q037,Income,"$35,000 - $49,999",INC,INC3550
+2022,AL,Alabama,30.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,AK,Alaska,39.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,AZ,Arizona,38.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,AR,Arkansas,32.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,CA,California,34.7,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,CO,Colorado,35.9,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,CT,Connecticut,35.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,DE,Delaware,35.7,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,DC,District of Columbia,32.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,FL,Florida,37.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,GA,Georgia,29.1,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,GU,Guam,32.4,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,HI,Hawaii,32.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,ID,Idaho,34.4,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,IL,Illinois,36.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,IN,Indiana,34.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,IA,Iowa,33.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,KS,Kansas,34.4,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,KY,Kentucky,41.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,LA,Louisiana,35.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,ME,Maine,36.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MD,Maryland,34.4,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MA,Massachusetts,36.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MI,Michigan,34.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MN,Minnesota,36.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MS,Mississippi,34.1,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MO,Missouri,35.1,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,MT,Montana,34.8,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,US,National,34.9,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NE,Nebraska,32.4,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NV,Nevada,35.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NH,New Hampshire,38.9,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NJ,New Jersey,37.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NM,New Mexico,35.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NY,New York,34.8,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,NC,North Carolina,35.7,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,ND,North Dakota,37.2,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,OH,Ohio,33.2,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,OK,Oklahoma,36.8,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,OR,Oregon,34.9,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,PA,Pennsylvania,33.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,PR,Puerto Rico,40.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,RI,Rhode Island,37.0,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,SC,South Carolina,37.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,SD,South Dakota,38.2,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,TN,Tennessee,33.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,TX,Texas,34.7,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,UT,Utah,34.6,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,VT,Vermont,35.4,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,VI,Virgin Islands,44.2,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,VA,Virginia,33.5,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,WA,Washington,35.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,WV,West Virginia,30.2,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,WI,Wisconsin,35.1,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,WY,Wyoming,37.3,Q037,Income,"$50,000 - $74,999",INC,INC5075
+2022,AL,Alabama,35.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AK,Alaska,40.8,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AZ,Arizona,36.2,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AR,Arkansas,37.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,CA,California,39.4,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,CO,Colorado,38.4,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,CT,Connecticut,39.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,DE,Delaware,32.2,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,DC,District of Columbia,29.4,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,FL,Florida,37.9,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,GA,Georgia,36.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,GU,Guam,34.4,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,HI,Hawaii,35.0,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,ID,Idaho,37.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,IL,Illinois,35.0,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,IN,Indiana,33.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,IA,Iowa,38.0,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,KS,Kansas,36.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,KY,Kentucky,35.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,LA,Louisiana,33.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,ME,Maine,36.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MD,Maryland,36.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MA,Massachusetts,33.5,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MI,Michigan,36.9,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MN,Minnesota,35.8,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MS,Mississippi,35.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MO,Missouri,35.2,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,MT,Montana,33.9,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,US,National,36.2,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NE,Nebraska,37.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NV,Nevada,39.2,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NH,New Hampshire,35.8,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NJ,New Jersey,39.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NM,New Mexico,35.5,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NY,New York,33.5,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,NC,North Carolina,40.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,ND,North Dakota,38.0,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,OH,Ohio,35.5,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,OK,Oklahoma,35.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,OR,Oregon,35.5,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,PA,Pennsylvania,37.8,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,PR,Puerto Rico,35.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,RI,Rhode Island,37.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,SC,South Carolina,37.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,SD,South Dakota,35.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,TN,Tennessee,31.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,TX,Texas,34.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,UT,Utah,35.6,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,VT,Vermont,35.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,VI,Virgin Islands,12.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,VA,Virginia,31.2,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WA,Washington,34.7,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WV,West Virginia,38.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WI,Wisconsin,32.1,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,WY,Wyoming,40.3,Q037,Income,"$75,000 or greater",INC,INC75PLUS
+2022,AL,Alabama,37.2,Q037,Income,Data not reported,INC,INCNR
+2022,AK,Alaska,37.3,Q037,Income,Data not reported,INC,INCNR
+2022,AZ,Arizona,33.4,Q037,Income,Data not reported,INC,INCNR
+2022,AR,Arkansas,37.7,Q037,Income,Data not reported,INC,INCNR
+2022,CA,California,35.0,Q037,Income,Data not reported,INC,INCNR
+2022,CO,Colorado,37.0,Q037,Income,Data not reported,INC,INCNR
+2022,CT,Connecticut,36.1,Q037,Income,Data not reported,INC,INCNR
+2022,DE,Delaware,35.7,Q037,Income,Data not reported,INC,INCNR
+2022,DC,District of Columbia,32.5,Q037,Income,Data not reported,INC,INCNR
+2022,FL,Florida,34.5,Q037,Income,Data not reported,INC,INCNR
+2022,GA,Georgia,36.0,Q037,Income,Data not reported,INC,INCNR
+2022,GU,Guam,37.0,Q037,Income,Data not reported,INC,INCNR
+2022,HI,Hawaii,35.1,Q037,Income,Data not reported,INC,INCNR
+2022,ID,Idaho,35.2,Q037,Income,Data not reported,INC,INCNR
+2022,IL,Illinois,35.5,Q037,Income,Data not reported,INC,INCNR
+2022,IN,Indiana,36.3,Q037,Income,Data not reported,INC,INCNR
+2022,IA,Iowa,34.7,Q037,Income,Data not reported,INC,INCNR
+2022,KS,Kansas,33.9,Q037,Income,Data not reported,INC,INCNR
+2022,KY,Kentucky,36.9,Q037,Income,Data not reported,INC,INCNR
+2022,LA,Louisiana,33.3,Q037,Income,Data not reported,INC,INCNR
+2022,ME,Maine,33.4,Q037,Income,Data not reported,INC,INCNR
+2022,MD,Maryland,35.0,Q037,Income,Data not reported,INC,INCNR
+2022,MA,Massachusetts,35.6,Q037,Income,Data not reported,INC,INCNR
+2022,MI,Michigan,34.0,Q037,Income,Data not reported,INC,INCNR
+2022,MN,Minnesota,35.9,Q037,Income,Data not reported,INC,INCNR
+2022,MS,Mississippi,36.1,Q037,Income,Data not reported,INC,INCNR
+2022,MO,Missouri,35.6,Q037,Income,Data not reported,INC,INCNR
+2022,MT,Montana,36.8,Q037,Income,Data not reported,INC,INCNR
+2022,US,National,35.3,Q037,Income,Data not reported,INC,INCNR
+2022,NE,Nebraska,36.4,Q037,Income,Data not reported,INC,INCNR
+2022,NV,Nevada,34.2,Q037,Income,Data not reported,INC,INCNR
+2022,NH,New Hampshire,38.2,Q037,Income,Data not reported,INC,INCNR
+2022,NJ,New Jersey,37.0,Q037,Income,Data not reported,INC,INCNR
+2022,NM,New Mexico,37.9,Q037,Income,Data not reported,INC,INCNR
+2022,NY,New York,34.5,Q037,Income,Data not reported,INC,INCNR
+2022,NC,North Carolina,35.9,Q037,Income,Data not reported,INC,INCNR
+2022,ND,North Dakota,35.3,Q037,Income,Data not reported,INC,INCNR
+2022,OH,Ohio,34.2,Q037,Income,Data not reported,INC,INCNR
+2022,OK,Oklahoma,31.9,Q037,Income,Data not reported,INC,INCNR
+2022,OR,Oregon,38.1,Q037,Income,Data not reported,INC,INCNR
+2022,PA,Pennsylvania,34.4,Q037,Income,Data not reported,INC,INCNR
+2022,PR,Puerto Rico,35.7,Q037,Income,Data not reported,INC,INCNR
+2022,RI,Rhode Island,37.8,Q037,Income,Data not reported,INC,INCNR
+2022,SC,South Carolina,37.4,Q037,Income,Data not reported,INC,INCNR
+2022,SD,South Dakota,36.1,Q037,Income,Data not reported,INC,INCNR
+2022,TN,Tennessee,34.2,Q037,Income,Data not reported,INC,INCNR
+2022,TX,Texas,36.6,Q037,Income,Data not reported,INC,INCNR
+2022,UT,Utah,34.7,Q037,Income,Data not reported,INC,INCNR
+2022,VT,Vermont,36.2,Q037,Income,Data not reported,INC,INCNR
+2022,VI,Virgin Islands,41.3,Q037,Income,Data not reported,INC,INCNR
+2022,VA,Virginia,34.5,Q037,Income,Data not reported,INC,INCNR
+2022,WA,Washington,35.4,Q037,Income,Data not reported,INC,INCNR
+2022,WV,West Virginia,33.1,Q037,Income,Data not reported,INC,INCNR
+2022,WI,Wisconsin,35.0,Q037,Income,Data not reported,INC,INCNR
+2022,WY,Wyoming,36.5,Q037,Income,Data not reported,INC,INCNR
+2022,AL,Alabama,28.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,AK,Alaska,18.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,AZ,Arizona,29.2,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,AR,Arkansas,28.2,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,CA,California,33.0,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,CO,Colorado,30.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,CT,Connecticut,36.5,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,DE,Delaware,37.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,DC,District of Columbia,24.2,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,FL,Florida,30.5,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,GA,Georgia,23.7,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,GU,Guam,26.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,HI,Hawaii,26.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,ID,Idaho,35.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,IL,Illinois,22.9,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,IN,Indiana,27.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,IA,Iowa,28.8,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,KS,Kansas,33.3,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,KY,Kentucky,25.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,LA,Louisiana,25.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,ME,Maine,21.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MD,Maryland,28.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MA,Massachusetts,30.3,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MI,Michigan,24.9,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MN,Minnesota,28.5,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MS,Mississippi,26.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MO,Missouri,26.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,MT,Montana,31.3,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,US,National,28.8,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NE,Nebraska,29.0,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NV,Nevada,28.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NH,New Hampshire,27.7,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NJ,New Jersey,28.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NM,New Mexico,34.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NY,New York,34.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,NC,North Carolina,32.3,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,ND,North Dakota,35.0,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,OH,Ohio,25.2,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,OK,Oklahoma,25.8,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,OR,Oregon,28.2,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,PA,Pennsylvania,28.9,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,PR,Puerto Rico,34.9,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,RI,Rhode Island,32.9,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,SC,South Carolina,22.5,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,SD,South Dakota,42.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,TN,Tennessee,29.7,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,TX,Texas,28.1,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,UT,Utah,26.9,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,VT,Vermont,27.8,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,VI,Virgin Islands,53.4,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,VA,Virginia,20.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,WA,Washington,31.6,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,WV,West Virginia,27.0,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,WI,Wisconsin,26.7,Q037,Income,"Less than $15,000",INC,INCLESS15
+2022,WY,Wyoming,24.5,Q037,Income,"Less than $15,000",INC,INCLESS15

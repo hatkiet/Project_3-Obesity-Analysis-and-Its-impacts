@@ -1,209 +1,221 @@
-YearStart,YearEnd,LocationAbbr,LocationDesc,Question,Data_Value,Low_Confidence_Limit,High_Confidence_Limit ,Sample_Size,Age(years),Education,Gender,Income,Race/Ethnicity,GeoLocation,ClassID,TopicID,QuestionID,LocationID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,37.8,34.6,41.1,1415.0,,College graduate,,,,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,40.9,38.1,43.7,2119.0,,College graduate,,,,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,36.7,34.2,39.2,3682.0,,College graduate,,,,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,37.4,34.5,40.4,1553.0,,College graduate,,,,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,37.0,35.0,39.0,4637.0,,College graduate,,,,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,37.2,35.5,38.9,4224.0,,College graduate,,,,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,37.5,35.5,39.6,4237.0,,College graduate,,,,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,36.7,33.3,40.1,1456.0,,College graduate,,,,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,32.7,30.2,35.3,1982.0,,College graduate,,,,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,37.2,34.5,39.9,4480.0,,College graduate,,,,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,37.1,34.7,39.7,3286.0,,College graduate,,,,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,34.4,32.2,36.7,3208.0,,College graduate,,,,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,38.0,35.6,40.4,2062.0,,College graduate,,,,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,35.5,32.7,38.4,1647.0,,College graduate,,,,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,35.7,33.8,37.7,3272.0,,College graduate,,,,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,37.0,34.8,39.3,2680.0,,College graduate,,,,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,36.9,34.9,38.8,4116.0,,College graduate,,,,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,36.6,32.8,40.6,1097.0,,College graduate,,,,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,37.8,35.1,40.6,1893.0,,College graduate,,,,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,36.4,34.5,38.5,4328.0,,College graduate,,,,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,38.2,36.4,40.0,6884.0,,College graduate,,,,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,36.0,34.3,37.8,5237.0,,College graduate,,,,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,35.5,33.6,37.3,3832.0,,College graduate,,,,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,36.7,35.3,38.1,7317.0,,College graduate,,,,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,35.9,32.7,39.2,1312.0,,College graduate,,,,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,35.2,32.8,37.7,2424.0,,College graduate,,,,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,38.1,35.9,40.4,2601.0,,College graduate,,,,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,36.6,36.1,37.0,165382.0,,College graduate,,,,,OWS,OWS1,Q037,59,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,39.5,36.8,42.2,2292.0,,College graduate,,,,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,36.3,32.1,40.8,1093.0,,College graduate,,,,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,37.4,34.9,39.8,2906.0,,College graduate,,,,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,37.5,35.4,39.6,3563.0,,College graduate,,,,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,36.2,33.1,39.3,1770.0,,College graduate,,,,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,33.9,32.3,35.4,7051.0,,College graduate,,,,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,38.9,36.0,41.8,1640.0,,College graduate,,,,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,38.9,36.0,41.8,1453.0,,College graduate,,,,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,35.9,34.1,37.7,5378.0,,College graduate,,,,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,35.1,32.5,37.7,1768.0,,College graduate,,,,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,37.3,34.9,39.6,2259.0,,College graduate,,,,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,37.8,34.6,41.1,1727.0,,College graduate,,,,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,40.0,37.4,42.5,2447.0,,College graduate,,,,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,37.3,35.3,39.4,3605.0,,College graduate,,,,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,35.9,31.4,40.8,2486.0,,College graduate,,,,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,37.2,34.3,40.3,1653.0,,College graduate,,,,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,36.5,34.3,38.8,4950.0,,College graduate,,,,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,36.3,34.4,38.3,3717.0,,College graduate,,,,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,36.2,34.4,38.0,4303.0,,College graduate,,,,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,34.7,32.8,36.6,4570.0,,College graduate,,,,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,35.8,34.7,37.0,10954.0,,College graduate,,,,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,37.8,34.9,40.7,1460.0,,College graduate,,,,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,35.5,33.6,37.5,3925.0,,College graduate,,,,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,39.9,36.9,43.0,1431.0,,College graduate,,,,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Education,College graduate,EDU,EDUCOGRAD
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,31.3,27.8,35.0,1166.0,,High school graduate,,,,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,32.7,29.4,36.2,1330.0,,High school graduate,,,,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,30.8,27.7,34.1,1929.0,,High school graduate,,,,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,31.9,28.9,35.0,1516.0,,High school graduate,,,,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,32.2,29.4,35.1,1784.0,,High school graduate,,,,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,34.2,31.2,37.3,1579.0,,High school graduate,,,,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,34.7,31.4,38.1,1692.0,,High school graduate,,,,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,33.3,29.4,37.4,936.0,,High school graduate,,,,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,24.4,19.5,30.1,400.0,,High school graduate,,,,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,32.1,28.8,35.6,3046.0,,High school graduate,,,,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,28.0,25.2,30.9,1940.0,,High school graduate,,,,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,31.9,29.1,34.8,1803.0,,High school graduate,,,,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,32.9,30.2,35.7,1489.0,,High school graduate,,,,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,32.2,28.5,36.2,835.0,,High school graduate,,,,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,32.8,30.6,35.1,2625.0,,High school graduate,,,,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,31.3,29.0,33.6,2524.0,,High school graduate,,,,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,30.7,28.4,33.2,2579.0,,High school graduate,,,,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,32.7,29.1,36.5,1190.0,,High school graduate,,,,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,29.9,27.0,33.1,1451.0,,High school graduate,,,,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,30.7,28.3,33.3,2428.0,,High school graduate,,,,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,30.9,28.5,33.4,3409.0,,High school graduate,,,,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,32.7,29.9,35.6,1787.0,,High school graduate,,,,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,32.0,29.6,34.5,2159.0,,High school graduate,,,,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,34.5,32.3,36.8,3000.0,,High school graduate,,,,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,31.8,28.3,35.4,1006.0,,High school graduate,,,,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,34.7,31.9,37.7,2013.0,,High school graduate,,,,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,33.5,30.8,36.3,1682.0,,High school graduate,,,,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,32.3,31.7,32.9,94302.0,,High school graduate,,,,,OWS,OWS1,Q037,59,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,33.3,30.5,36.3,2064.0,,High school graduate,,,,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,31.1,26.8,35.8,741.0,,High school graduate,,,,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,37.5,33.7,41.5,1341.0,,High school graduate,,,,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,37.6,34.3,41.1,1353.0,,High school graduate,,,,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,35.2,31.1,39.5,1093.0,,High school graduate,,,,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,33.1,30.9,35.5,3414.0,,High school graduate,,,,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,35.1,31.2,39.1,910.0,,High school graduate,,,,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,34.9,31.4,38.5,972.0,,High school graduate,,,,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,31.7,29.8,33.7,4530.0,,High school graduate,,,,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,29.6,26.9,32.5,1380.0,,High school graduate,,,,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,35.1,31.8,38.6,1135.0,,High school graduate,,,,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,33.2,29.5,37.0,1212.0,,High school graduate,,,,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,35.5,31.6,39.6,1035.0,,High school graduate,,,,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.6,30.0,35.3,2272.0,,High school graduate,,,,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,36.4,30.4,42.7,1873.0,,High school graduate,,,,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,28.0,25.1,31.2,1357.0,,High school graduate,,,,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,31.8,28.8,34.9,2852.0,,High school graduate,,,,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,33.0,30.5,35.7,2044.0,,High school graduate,,,,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,30.2,27.3,33.2,1595.0,,High school graduate,,,,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,31.5,28.7,34.5,1975.0,,High school graduate,,,,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,33.0,31.3,34.7,4559.0,,High school graduate,,,,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,33.1,30.4,36.0,1610.0,,High school graduate,,,,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,30.7,28.5,33.1,2728.0,,High school graduate,,,,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,34.7,31.0,38.5,959.0,,High school graduate,,,,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Education,High school graduate,EDU,EDUHSGRAD
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,34.6,27.8,42.1,340.0,,Less than high school,,,,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Education,Less than high school,EDU,EDUHS
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,36.4,28.5,45.2,243.0,,Less than high school,,,,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Education,Less than high school,EDU,EDUHS
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,28.9,23.4,35.0,533.0,,Less than high school,,,,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Education,Less than high school,EDU,EDUHS
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,33.1,26.9,39.9,336.0,,Less than high school,,,,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Education,Less than high school,EDU,EDUHS
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,35.8,30.9,41.1,581.0,,Less than high school,,,,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Education,Less than high school,EDU,EDUHS
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,34.9,29.5,40.7,432.0,,Less than high school,,,,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Education,Less than high school,EDU,EDUHS
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,35.7,29.4,42.4,406.0,,Less than high school,,,,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Education,Less than high school,EDU,EDUHS
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,29.4,22.1,37.9,200.0,,Less than high school,,,,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Education,Less than high school,EDU,EDUHS
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,39.1,27.5,52.0,101.0,,Less than high school,,,,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Education,Less than high school,EDU,EDUHS
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,30.7,24.5,37.7,721.0,,Less than high school,,,,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Education,Less than high school,EDU,EDUHS
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,29.1,24.3,34.4,585.0,,Less than high school,,,,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Education,Less than high school,EDU,EDUHS
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,32.9,25.0,41.8,214.0,,Less than high school,,,,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Education,Less than high school,EDU,EDUHS
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,33.2,26.9,40.2,286.0,,Less than high school,,,,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Education,Less than high school,EDU,EDUHS
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,26.5,20.8,33.1,286.0,,Less than high school,,,,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Education,Less than high school,EDU,EDUHS
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,27.5,23.2,32.4,516.0,,Less than high school,,,,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Education,Less than high school,EDU,EDUHS
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,37.0,31.1,43.3,526.0,,Less than high school,,,,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Education,Less than high school,EDU,EDUHS
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,34.0,28.3,40.2,380.0,,Less than high school,,,,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Education,Less than high school,EDU,EDUHS
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,36.8,29.8,44.5,334.0,,Less than high school,,,,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Education,Less than high school,EDU,EDUHS
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,25.9,20.8,31.9,367.0,,Less than high school,,,,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Education,Less than high school,EDU,EDUHS
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,32.8,26.0,40.4,325.0,,Less than high school,,,,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Education,Less than high school,EDU,EDUHS
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,35.8,30.9,41.0,777.0,,Less than high school,,,,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Education,Less than high school,EDU,EDUHS
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,37.5,31.9,43.5,516.0,,Less than high school,,,,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Education,Less than high school,EDU,EDUHS
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,25.4,20.2,31.3,335.0,,Less than high school,,,,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Education,Less than high school,EDU,EDUHS
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,27.7,23.1,32.9,465.0,,Less than high school,,,,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Education,Less than high school,EDU,EDUHS
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,26.6,21.4,32.5,365.0,,Less than high school,,,,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Education,Less than high school,EDU,EDUHS
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,31.6,25.9,38.0,424.0,,Less than high school,,,,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Education,Less than high school,EDU,EDUHS
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,30.0,24.0,36.8,293.0,,Less than high school,,,,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Education,Less than high school,EDU,EDUHS
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,33.1,31.8,34.4,20854.0,,Less than high school,,,,,OWS,OWS1,Q037,59,Education,Less than high school,EDU,EDUHS
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,34.2,28.3,40.6,368.0,,Less than high school,,,,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Education,Less than high school,EDU,EDUHS
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,36.1,28.1,45.0,196.0,,Less than high school,,,,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Education,Less than high school,EDU,EDUHS
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,36.9,28.5,46.2,194.0,,Less than high school,,,,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Education,Less than high school,EDU,EDUHS
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,38.2,31.4,45.5,316.0,,Less than high school,,,,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Education,Less than high school,EDU,EDUHS
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,40.1,33.8,46.6,396.0,,Less than high school,,,,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Education,Less than high school,EDU,EDUHS
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,35.7,31.9,39.6,1032.0,,Less than high school,,,,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Education,Less than high school,EDU,EDUHS
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.5,25.6,40.3,295.0,,Less than high school,,,,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Education,Less than high school,EDU,EDUHS
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,26.8,19.4,35.7,171.0,,Less than high school,,,,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Education,Less than high school,EDU,EDUHS
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,32.8,27.9,38.0,681.0,,Less than high school,,,,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Education,Less than high school,EDU,EDUHS
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,31.6,26.4,37.3,367.0,,Less than high school,,,,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Education,Less than high school,EDU,EDUHS
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,36.2,29.2,43.7,274.0,,Less than high school,,,,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Education,Less than high school,EDU,EDUHS
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,29.7,20.5,40.9,170.0,,Less than high school,,,,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Education,Less than high school,EDU,EDUHS
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,36.4,30.2,43.1,363.0,,Less than high school,,,,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Education,Less than high school,EDU,EDUHS
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,33.3,28.3,38.7,560.0,,Less than high school,,,,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Education,Less than high school,EDU,EDUHS
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,39.8,26.5,54.8,309.0,,Less than high school,,,,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Education,Less than high school,EDU,EDUHS
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,27.4,21.7,34.1,349.0,,Less than high school,,,,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Education,Less than high school,EDU,EDUHS
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,37.1,32.1,42.5,1063.0,,Less than high school,,,,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Education,Less than high school,EDU,EDUHS
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,36.4,30.7,42.6,376.0,,Less than high school,,,,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Education,Less than high school,EDU,EDUHS
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,29.6,22.1,38.4,197.0,,Less than high school,,,,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Education,Less than high school,EDU,EDUHS
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,29.3,24.0,35.2,468.0,,Less than high school,,,,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Education,Less than high school,EDU,EDUHS
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,37.4,33.5,41.4,919.0,,Less than high school,,,,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Education,Less than high school,EDU,EDUHS
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,28.9,23.8,34.6,364.0,,Less than high school,,,,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Education,Less than high school,EDU,EDUHS
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,30.3,24.9,36.2,393.0,,Less than high school,,,,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Education,Less than high school,EDU,EDUHS
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,33.4,25.1,42.9,146.0,,Less than high school,,,,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Education,Less than high school,EDU,EDUHS
-2022,2022,AL,Alabama,Percent of adults aged 18 years and older who have an overweight classification,32.3,29.0,35.9,1277.0,,Some college or technical school,,,,"(32.84057112200048, -86.63186076199969)",OWS,OWS1,Q037,1,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,AK,Alaska,Percent of adults aged 18 years and older who have an overweight classification,36.0,33.0,39.2,1564.0,,Some college or technical school,,,,"(64.84507995700051, -147.72205903599973)",OWS,OWS1,Q037,2,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,AZ,Arizona,Percent of adults aged 18 years and older who have an overweight classification,34.2,31.5,37.1,3016.0,,Some college or technical school,,,,"(34.865970280000454, -111.76381127699972)",OWS,OWS1,Q037,4,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,AR,Arkansas,Percent of adults aged 18 years and older who have an overweight classification,33.2,30.0,36.5,1235.0,,Some college or technical school,,,,"(34.74865012400045, -92.27449074299966)",OWS,OWS1,Q037,5,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,CA,California,Percent of adults aged 18 years and older who have an overweight classification,33.7,31.2,36.2,2434.0,,Some college or technical school,,,,"(37.63864012300047, -120.99999953799971)",OWS,OWS1,Q037,6,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,CO,Colorado,Percent of adults aged 18 years and older who have an overweight classification,34.6,32.1,37.1,2136.0,,Some college or technical school,,,,"(38.843840757000464, -106.13361092099967)",OWS,OWS1,Q037,8,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,CT,Connecticut,Percent of adults aged 18 years and older who have an overweight classification,33.1,30.2,36.2,1844.0,,Some college or technical school,,,,"(41.56266102000046, -72.64984095199964)",OWS,OWS1,Q037,9,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,DE,Delaware,Percent of adults aged 18 years and older who have an overweight classification,33.2,29.4,37.2,952.0,,Some college or technical school,,,,"(39.008830667000495, -75.57774116799965)",OWS,OWS1,Q037,10,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,DC,District of Columbia,Percent of adults aged 18 years and older who have an overweight classification,27.3,22.0,33.3,387.0,,Some college or technical school,,,,"(38.89037138500049, -77.03196112699965)",OWS,OWS1,Q037,11,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,FL,Florida,Percent of adults aged 18 years and older who have an overweight classification,35.5,32.3,38.9,3512.0,,Some college or technical school,,,,"(28.932040377000476, -81.92896053899966)",OWS,OWS1,Q037,12,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,GA,Georgia,Percent of adults aged 18 years and older who have an overweight classification,31.5,28.8,34.4,2184.0,,Some college or technical school,,,,"(32.83968109300048, -83.62758034599966)",OWS,OWS1,Q037,13,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,HI,Hawaii,Percent of adults aged 18 years and older who have an overweight classification,35.3,32.5,38.1,2048.0,,Some college or technical school,,,,"(21.304850435000446, -157.85774940299973)",OWS,OWS1,Q037,15,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,ID,Idaho,Percent of adults aged 18 years and older who have an overweight classification,35.8,33.3,38.4,1835.0,,Some college or technical school,,,,"(43.682630005000476, -114.3637300419997)",OWS,OWS1,Q037,16,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,IL,Illinois,Percent of adults aged 18 years and older who have an overweight classification,35.8,32.1,39.7,958.0,,Some college or technical school,,,,"(40.48501028300046, -88.99771017799969)",OWS,OWS1,Q037,17,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,IN,Indiana,Percent of adults aged 18 years and older who have an overweight classification,33.9,31.7,36.3,2395.0,,Some college or technical school,,,,"(39.766910452000445, -86.14996019399968)",OWS,OWS1,Q037,18,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,IA,Iowa,Percent of adults aged 18 years and older who have an overweight classification,33.1,30.7,35.5,2376.0,,Some college or technical school,,,,"(42.46940091300047, -93.81649055599968)",OWS,OWS1,Q037,19,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,KS,Kansas,Percent of adults aged 18 years and older who have an overweight classification,32.2,30.1,34.4,3092.0,,Some college or technical school,,,,"(38.34774030000045, -98.20078122699965)",OWS,OWS1,Q037,20,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,KY,Kentucky,Percent of adults aged 18 years and older who have an overweight classification,32.9,29.0,37.0,1053.0,,Some college or technical school,,,,"(37.645970271000465, -84.77497104799966)",OWS,OWS1,Q037,21,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,LA,Louisiana,Percent of adults aged 18 years and older who have an overweight classification,31.5,28.6,34.6,1402.0,,Some college or technical school,,,,"(31.31266064400046, -92.44568007099969)",OWS,OWS1,Q037,22,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,ME,Maine,Percent of adults aged 18 years and older who have an overweight classification,32.1,29.8,34.5,2683.0,,Some college or technical school,,,,"(45.254228894000505, -68.98503133599962)",OWS,OWS1,Q037,23,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MD,Maryland,Percent of adults aged 18 years and older who have an overweight classification,31.9,29.4,34.5,3154.0,,Some college or technical school,,,,"(39.29058096400047, -76.60926011099963)",OWS,OWS1,Q037,24,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MA,Massachusetts,Percent of adults aged 18 years and older who have an overweight classification,33.2,30.6,35.9,2132.0,,Some college or technical school,,,,"(42.27687047000046, -72.08269067499964)",OWS,OWS1,Q037,25,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MI,Michigan,Percent of adults aged 18 years and older who have an overweight classification,33.2,31.0,35.5,2408.0,,Some college or technical school,,,,"(44.6613195430005, -84.71439026999968)",OWS,OWS1,Q037,26,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MN,Minnesota,Percent of adults aged 18 years and older who have an overweight classification,34.7,32.9,36.5,4390.0,,Some college or technical school,,,,"(46.35564873600049, -94.79420050299967)",OWS,OWS1,Q037,27,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MS,Mississippi,Percent of adults aged 18 years and older who have an overweight classification,34.3,31.1,37.7,1243.0,,Some college or technical school,,,,"(32.745510099000455, -89.53803082499968)",OWS,OWS1,Q037,28,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MO,Missouri,Percent of adults aged 18 years and older who have an overweight classification,32.7,29.9,35.5,1970.0,,Some college or technical school,,,,"(38.635790776000476, -92.56630005299968)",OWS,OWS1,Q037,29,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,MT,Montana,Percent of adults aged 18 years and older who have an overweight classification,36.0,33.4,38.7,1942.0,,Some college or technical school,,,,"(47.06652897200047, -109.42442064499971)",OWS,OWS1,Q037,30,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,US,National,Percent of adults aged 18 years and older who have an overweight classification,33.6,33.0,34.2,105991.0,,Some college or technical school,,,,,OWS,OWS1,Q037,59,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NE,Nebraska,Percent of adults aged 18 years and older who have an overweight classification,32.9,30.2,35.8,2123.0,,Some college or technical school,,,,"(41.6410409880005, -99.36572062299967)",OWS,OWS1,Q037,31,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NV,Nevada,Percent of adults aged 18 years and older who have an overweight classification,33.4,28.9,38.1,866.0,,Some college or technical school,,,,"(39.493240390000494, -117.07184056399967)",OWS,OWS1,Q037,32,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NH,New Hampshire,Percent of adults aged 18 years and older who have an overweight classification,35.2,31.8,38.7,1471.0,,Some college or technical school,,,,"(43.65595011300047, -71.50036091999965)",OWS,OWS1,Q037,33,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NJ,New Jersey,Percent of adults aged 18 years and older who have an overweight classification,33.9,30.6,37.3,1482.0,,Some college or technical school,,,,"(40.13057004800049, -74.27369128799967)",OWS,OWS1,Q037,34,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NM,New Mexico,Percent of adults aged 18 years and older who have an overweight classification,37.6,33.7,41.6,1181.0,,Some college or technical school,,,,"(34.52088095200048, -106.24058098499967)",OWS,OWS1,Q037,35,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NY,New York,Percent of adults aged 18 years and older who have an overweight classification,33.9,31.7,36.1,3446.0,,Some college or technical school,,,,"(42.82700103200045, -75.54397042699964)",OWS,OWS1,Q037,36,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,NC,North Carolina,Percent of adults aged 18 years and older who have an overweight classification,32.8,29.5,36.2,1179.0,,Some college or technical school,,,,"(35.466220975000454, -79.15925046299964)",OWS,OWS1,Q037,37,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,ND,North Dakota,Percent of adults aged 18 years and older who have an overweight classification,35.5,32.4,38.7,1197.0,,Some college or technical school,,,,"(47.47531977900047, -100.11842104899966)",OWS,OWS1,Q037,38,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,OH,Ohio,Percent of adults aged 18 years and older who have an overweight classification,31.3,29.3,33.3,4248.0,,Some college or technical school,,,,"(40.06021014100048, -82.40426005599966)",OWS,OWS1,Q037,39,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,OK,Oklahoma,Percent of adults aged 18 years and older who have an overweight classification,33.2,30.6,35.8,1737.0,,Some college or technical school,,,,"(35.47203135600046, -97.52107021399968)",OWS,OWS1,Q037,40,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,OR,Oregon,Percent of adults aged 18 years and older who have an overweight classification,35.5,32.7,38.4,1593.0,,Some college or technical school,,,,"(44.56744942400047, -120.15503132599969)",OWS,OWS1,Q037,41,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,PA,Pennsylvania,Percent of adults aged 18 years and older who have an overweight classification,33.4,29.8,37.2,1073.0,,Some college or technical school,,,,"(40.79373015200048, -77.86070029399963)",OWS,OWS1,Q037,42,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,RI,Rhode Island,Percent of adults aged 18 years and older who have an overweight classification,33.8,30.4,37.4,1260.0,,Some college or technical school,,,,"(41.70828019300046, -71.52247031399963)",OWS,OWS1,Q037,44,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,SC,South Carolina,Percent of adults aged 18 years and older who have an overweight classification,35.3,32.8,37.9,2343.0,,Some college or technical school,,,,"(33.998821303000454, -81.04537120699968)",OWS,OWS1,Q037,45,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,SD,South Dakota,Percent of adults aged 18 years and older who have an overweight classification,33.0,27.3,39.3,2143.0,,Some college or technical school,,,,"(44.353130053000484, -100.3735306369997)",OWS,OWS1,Q037,46,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,TN,Tennessee,Percent of adults aged 18 years and older who have an overweight classification,33.5,30.3,36.8,1342.0,,Some college or technical school,,,,"(35.68094058000048, -85.77449091399967)",OWS,OWS1,Q037,47,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,TX,Texas,Percent of adults aged 18 years and older who have an overweight classification,33.8,31.0,36.7,3297.0,,Some college or technical school,,,,"(31.827240407000488, -99.42677020599967)",OWS,OWS1,Q037,48,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,UT,Utah,Percent of adults aged 18 years and older who have an overweight classification,32.9,30.6,35.2,2562.0,,Some college or technical school,,,,"(39.360700171000474, -111.58713063499971)",OWS,OWS1,Q037,49,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,VT,Vermont,Percent of adults aged 18 years and older who have an overweight classification,36.6,33.6,39.7,1656.0,,Some college or technical school,,,,"(43.62538123900049, -72.51764079099962)",OWS,OWS1,Q037,50,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,VA,Virginia,Percent of adults aged 18 years and older who have an overweight classification,30.6,28.0,33.2,2346.0,,Some college or technical school,,,,"(37.54268067400045, -78.45789046299967)",OWS,OWS1,Q037,51,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,WA,Washington,Percent of adults aged 18 years and older who have an overweight classification,33.6,32.1,35.1,6356.0,,Some college or technical school,,,,"(47.52227862900048, -120.47001078999972)",OWS,OWS1,Q037,53,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,WV,West Virginia,Percent of adults aged 18 years and older who have an overweight classification,32.4,29.3,35.8,1199.0,,Some college or technical school,,,,"(38.66551020200046, -80.71264013499967)",OWS,OWS1,Q037,54,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,WI,Wisconsin,Percent of adults aged 18 years and older who have an overweight classification,33.4,31.2,35.7,3015.0,,Some college or technical school,,,,"(44.39319117400049, -89.81637074199966)",OWS,OWS1,Q037,55,Education,Some college or technical school,EDU,EDUCOTEC
-2022,2022,WY,Wyoming,Percent of adults aged 18 years and older who have an overweight classification,33.8,30.8,37.0,1254.0,,Some college or technical school,,,,"(43.23554134300048, -108.10983035299967)",OWS,OWS1,Q037,56,Education,Some college or technical school,EDU,EDUCOTEC
+YearStart,LocationAbbr,LocationDesc,Data_Value,QuestionID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,AL,Alabama,37.8,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,AK,Alaska,40.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,AZ,Arizona,36.7,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,AR,Arkansas,37.4,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,CA,California,37.0,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,CO,Colorado,37.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,CT,Connecticut,37.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,DE,Delaware,36.7,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,DC,District of Columbia,32.7,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,FL,Florida,37.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,GA,Georgia,37.1,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,GU,Guam,38.8,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,HI,Hawaii,34.4,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,ID,Idaho,38.0,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,IL,Illinois,35.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,IN,Indiana,35.7,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,IA,Iowa,37.0,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,KS,Kansas,36.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,KY,Kentucky,36.6,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,LA,Louisiana,37.8,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,ME,Maine,36.4,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MD,Maryland,38.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MA,Massachusetts,36.0,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MI,Michigan,35.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MN,Minnesota,36.7,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MS,Mississippi,35.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MO,Missouri,35.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,MT,Montana,38.1,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,US,National,36.6,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NE,Nebraska,39.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NV,Nevada,36.3,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NH,New Hampshire,37.4,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NJ,New Jersey,37.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NM,New Mexico,36.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NY,New York,33.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,NC,North Carolina,38.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,ND,North Dakota,38.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,OH,Ohio,35.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,OK,Oklahoma,35.1,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,OR,Oregon,37.3,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,PA,Pennsylvania,37.8,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,PR,Puerto Rico,37.3,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,RI,Rhode Island,40.0,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,SC,South Carolina,37.3,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,SD,South Dakota,35.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,TN,Tennessee,37.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,TX,Texas,36.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,UT,Utah,36.3,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,VT,Vermont,36.2,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,VI,Virgin Islands,36.0,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,VA,Virginia,34.7,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,WA,Washington,35.8,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,WV,West Virginia,37.8,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,WI,Wisconsin,35.5,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,WY,Wyoming,39.9,Q037,Education,College graduate,EDU,EDUCOGRAD
+2022,AL,Alabama,31.3,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,AK,Alaska,32.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,AZ,Arizona,30.8,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,AR,Arkansas,31.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,CA,California,32.2,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,CO,Colorado,34.2,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,CT,Connecticut,34.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,DE,Delaware,33.3,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,DC,District of Columbia,24.4,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,FL,Florida,32.1,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,GA,Georgia,28.0,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,GU,Guam,33.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,HI,Hawaii,31.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,ID,Idaho,32.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,IL,Illinois,32.2,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,IN,Indiana,32.8,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,IA,Iowa,31.3,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,KS,Kansas,30.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,KY,Kentucky,32.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,LA,Louisiana,29.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,ME,Maine,30.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MD,Maryland,30.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MA,Massachusetts,32.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MI,Michigan,32.0,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MN,Minnesota,34.5,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MS,Mississippi,31.8,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MO,Missouri,34.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,MT,Montana,33.5,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,US,National,32.3,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NE,Nebraska,33.3,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NV,Nevada,31.1,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NH,New Hampshire,37.5,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NJ,New Jersey,37.6,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NM,New Mexico,35.2,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NY,New York,33.1,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,NC,North Carolina,35.1,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,ND,North Dakota,34.9,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,OH,Ohio,31.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,OK,Oklahoma,29.6,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,OR,Oregon,35.1,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,PA,Pennsylvania,33.2,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,PR,Puerto Rico,37.4,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,RI,Rhode Island,35.5,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,SC,South Carolina,32.6,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,SD,South Dakota,36.4,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,TN,Tennessee,28.0,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,TX,Texas,31.8,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,UT,Utah,33.0,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,VT,Vermont,30.2,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,VI,Virgin Islands,30.0,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,VA,Virginia,31.5,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,WA,Washington,33.0,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,WV,West Virginia,33.1,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,WI,Wisconsin,30.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,WY,Wyoming,34.7,Q037,Education,High school graduate,EDU,EDUHSGRAD
+2022,AL,Alabama,34.6,Q037,Education,Less than high school,EDU,EDUHS
+2022,AK,Alaska,36.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,AZ,Arizona,28.9,Q037,Education,Less than high school,EDU,EDUHS
+2022,AR,Arkansas,33.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,CA,California,35.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,CO,Colorado,34.9,Q037,Education,Less than high school,EDU,EDUHS
+2022,CT,Connecticut,35.7,Q037,Education,Less than high school,EDU,EDUHS
+2022,DE,Delaware,29.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,DC,District of Columbia,39.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,FL,Florida,30.7,Q037,Education,Less than high school,EDU,EDUHS
+2022,GA,Georgia,29.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,GU,Guam,44.3,Q037,Education,Less than high school,EDU,EDUHS
+2022,HI,Hawaii,32.9,Q037,Education,Less than high school,EDU,EDUHS
+2022,ID,Idaho,33.2,Q037,Education,Less than high school,EDU,EDUHS
+2022,IL,Illinois,26.5,Q037,Education,Less than high school,EDU,EDUHS
+2022,IN,Indiana,27.5,Q037,Education,Less than high school,EDU,EDUHS
+2022,IA,Iowa,37.0,Q037,Education,Less than high school,EDU,EDUHS
+2022,KS,Kansas,34.0,Q037,Education,Less than high school,EDU,EDUHS
+2022,KY,Kentucky,36.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,LA,Louisiana,25.9,Q037,Education,Less than high school,EDU,EDUHS
+2022,ME,Maine,32.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,MD,Maryland,35.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,MA,Massachusetts,37.5,Q037,Education,Less than high school,EDU,EDUHS
+2022,MI,Michigan,25.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,MN,Minnesota,27.7,Q037,Education,Less than high school,EDU,EDUHS
+2022,MS,Mississippi,26.6,Q037,Education,Less than high school,EDU,EDUHS
+2022,MO,Missouri,31.6,Q037,Education,Less than high school,EDU,EDUHS
+2022,MT,Montana,30.0,Q037,Education,Less than high school,EDU,EDUHS
+2022,US,National,33.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,NE,Nebraska,34.2,Q037,Education,Less than high school,EDU,EDUHS
+2022,NV,Nevada,36.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,NH,New Hampshire,36.9,Q037,Education,Less than high school,EDU,EDUHS
+2022,NJ,New Jersey,38.2,Q037,Education,Less than high school,EDU,EDUHS
+2022,NM,New Mexico,40.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,NY,New York,35.7,Q037,Education,Less than high school,EDU,EDUHS
+2022,NC,North Carolina,32.5,Q037,Education,Less than high school,EDU,EDUHS
+2022,ND,North Dakota,26.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,OH,Ohio,32.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,OK,Oklahoma,31.6,Q037,Education,Less than high school,EDU,EDUHS
+2022,OR,Oregon,36.2,Q037,Education,Less than high school,EDU,EDUHS
+2022,PA,Pennsylvania,29.7,Q037,Education,Less than high school,EDU,EDUHS
+2022,PR,Puerto Rico,38.5,Q037,Education,Less than high school,EDU,EDUHS
+2022,RI,Rhode Island,36.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,SC,South Carolina,33.3,Q037,Education,Less than high school,EDU,EDUHS
+2022,SD,South Dakota,39.8,Q037,Education,Less than high school,EDU,EDUHS
+2022,TN,Tennessee,27.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,TX,Texas,37.1,Q037,Education,Less than high school,EDU,EDUHS
+2022,UT,Utah,36.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,VT,Vermont,29.6,Q037,Education,Less than high school,EDU,EDUHS
+2022,VI,Virgin Islands,36.7,Q037,Education,Less than high school,EDU,EDUHS
+2022,VA,Virginia,29.3,Q037,Education,Less than high school,EDU,EDUHS
+2022,WA,Washington,37.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,WV,West Virginia,28.9,Q037,Education,Less than high school,EDU,EDUHS
+2022,WI,Wisconsin,30.3,Q037,Education,Less than high school,EDU,EDUHS
+2022,WY,Wyoming,33.4,Q037,Education,Less than high school,EDU,EDUHS
+2022,AL,Alabama,32.3,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,AK,Alaska,36.0,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,AZ,Arizona,34.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,AR,Arkansas,33.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,CA,California,33.7,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,CO,Colorado,34.6,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,CT,Connecticut,33.1,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,DE,Delaware,33.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,DC,District of Columbia,27.3,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,FL,Florida,35.5,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,GA,Georgia,31.5,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,GU,Guam,25.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,HI,Hawaii,35.3,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,ID,Idaho,35.8,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,IL,Illinois,35.8,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,IN,Indiana,33.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,IA,Iowa,33.1,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,KS,Kansas,32.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,KY,Kentucky,32.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,LA,Louisiana,31.5,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,ME,Maine,32.1,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MD,Maryland,31.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MA,Massachusetts,33.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MI,Michigan,33.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MN,Minnesota,34.7,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MS,Mississippi,34.3,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MO,Missouri,32.7,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,MT,Montana,36.0,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,US,National,33.6,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NE,Nebraska,32.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NV,Nevada,33.4,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NH,New Hampshire,35.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NJ,New Jersey,33.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NM,New Mexico,37.6,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NY,New York,33.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,NC,North Carolina,32.8,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,ND,North Dakota,35.5,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,OH,Ohio,31.3,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,OK,Oklahoma,33.2,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,OR,Oregon,35.5,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,PA,Pennsylvania,33.4,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,PR,Puerto Rico,33.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,RI,Rhode Island,33.8,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,SC,South Carolina,35.3,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,SD,South Dakota,33.0,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,TN,Tennessee,33.5,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,TX,Texas,33.8,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,UT,Utah,32.9,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,VT,Vermont,36.6,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,VI,Virgin Islands,55.1,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,VA,Virginia,30.6,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WA,Washington,33.6,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WV,West Virginia,32.4,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WI,Wisconsin,33.4,Q037,Education,Some college or technical school,EDU,EDUCOTEC
+2022,WY,Wyoming,33.8,Q037,Education,Some college or technical school,EDU,EDUCOTEC

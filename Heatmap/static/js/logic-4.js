@@ -10,7 +10,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-// Load the GeoJSON data.
+// Load the GeoJSON data. For Question 036 in year 2022
 let geoData = "https://data.cdc.gov/resource/hn4x-zwk7.geojson?questionid=Q036&yearstart=2022&StratificationCategoryId1=OVR";
 //let geoData = "modified_geojson.geojson";
 
