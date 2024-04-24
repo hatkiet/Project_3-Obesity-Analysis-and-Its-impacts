@@ -25,7 +25,7 @@ d3.json(geoData).then(function(data) {
         // Create marker's style, [Refs: Mod-15/Day1/Act-04]
         return L.circleMarker(coordinates, {    
             // Call the markerSize() function to decide the radius of the circle based on magnitude
-            radius: markerSize(parseFloat(feature.properties.data_value)),
+            radius: markerSize(parseFloat(feature.properties.sample_size)),
             // Call the markerColor() function to decide color depends on the depth
             fillColor: markerColor(parseFloat(feature.properties.data_value)),
             color: "black", // edge color
@@ -48,7 +48,7 @@ d3.json(geoData).then(function(data) {
     // Generate legend information. [Refs: Mod-15/Day2/Act-04]
     legend.onAdd = function() {
         let div = L.DomUtil.create("div", "info legend");
-        div.innerHTML = "<h4>Overall Obesity [km]</h4>";
+        div.innerHTML = "<h4>Overall Obesity (%)</h4>";
         // Define legend labels and colors, respectively
         let labels = ["<20%", "20% - < 25%", "25% - <30%", "30% - <35%", "35% - <40%", "40% - <45%", ">45%"];
         let colors = ["lime", "greenyellow", "yellow", "orange", "red", "darkred", "brown"];
@@ -64,8 +64,8 @@ d3.json(geoData).then(function(data) {
 });
 
 // Define a function to determine the marker size based on the earthquake magnitude. [Refs: Mod-15/Day1/Act-09]
-function markerSize(percent) {
-    return percent*0.5;
+function markerSize(data) {
+    return Math.sqrt(data)*0.2;
 }
 
 // Define a function to determine the marker color based on the earthquake depth. [Refs: Mod-15/Day2/Act-01]
