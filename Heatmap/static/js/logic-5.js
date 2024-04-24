@@ -12,7 +12,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 // Load the GeoJSON data. For Question 036 in year 2022
-let geoData = "https://data.cdc.gov/resource/hn4x-zwk7.geojson?questionid=Q037&yearstart=2022&StratificationCategoryId1=OVR";
+let geoData = "https://data.cdc.gov/resource/hn4x-zwk7.geojson?questionid=Q036&yearstart=2022&StratificationCategoryId1=OVR";
 
 // Get the data with d3.
 d3.json(geoData).then(function(data) {
