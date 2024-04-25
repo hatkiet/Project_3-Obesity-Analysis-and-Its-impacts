@@ -23,19 +23,19 @@ SELECT DISTINCT(stratificationid1), stratification1
 FROM dnpao
 -- ORDER BY stratificationid1;
 
--- Count Distinct Stratification ID's
+-- Count distinct stratification ID's
 SELECT (COUNT(DISTINCT(stratificationid1))) AS "Distinct Stratification IDs"
 FROM dnpao;
 
---Query Just the Overall State Obesity Rates
+--Query just the overall state obesity rates in 2022
 SELECT * FROM DNPAO
 	WHERE YearStart = 2022
 	AND QuestionID = 'Q036'
 	AND LocationDesc <> 'National'
 	AND Stratificationid1 = 'OVERALL';
 	
---Query National per Stratification Obesity Rates
--- removing single "Overall" row. Renders 26 rows.
+--Query national obesity rates per each individual stratification (27 Rows)
+-- Removing the single "Overall" row renders 26 rows.
 SELECT * FROM DNPAO
 	WHERE YearStart = 2022
 	AND QuestionID = 'Q036'
