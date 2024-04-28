@@ -1,13 +1,13 @@
 # DNPAO Project
-**Red Team members's (Firstname's order): Harrison Lee, Kiet Hoang, Michael MacInnis, Michael Nurthen, Temi Olufemi**
+Red Team members's (Firstname's order): _Harrison Lee, Kiet Hoang, Michael MacInnis, Michael Nurthen, Temi Olufemi_
 
 # An overview of the project and its purpose
 
-_Project Aim:_ This dataset contains various demographic information from the United States, which shows how it relates to obesity, exercise and diet habits. The project aims to analyze demographic information and its impact on obesity trends in the United States. The dataset was sourced from the BRFSS (Behavioural Risk Factor Surveillance System), which is then used by the CDC's Division of Nutrition, Physical Activity, and Obesity (DNPAO).
+_Project Aim:_ The project-3-Red-Team aims to analyze demographic information and its impact on obesity trends in the United States. The dataset was sourced from the BRFSS (Behavioural Risk Factor Surveillance System), which is then used by the CDC's Division of Nutrition, Physical Activity, and Obesity (DNPAO). This dataset contains various demographic information from the United States, which shows how it relates to obesity, exercise and diet habits.
 
-The demographic variables include education level, age, ethnicity, gender, and income. These factors are examined to understand their impact on obesity trends. The data used for this project was a large dataset with different categories and questions. We collected and amended it based on the questions, specifically related to diet, exercise, and obesity.
+The data used for this project was a large dataset with different categories and questions. We collected and amended it based on the questions, specifically related to diet, exercise, and obesity. The demographic variables include education level, age, ethnicity, gender, and income. These factors are examined to understand their impact on obesity trends. 
 
-The data is stratified by age, education, income, gender, and race, providing detailed insights. Additionally, this dataset includes an "Overall" value for each state, as well as an overall value for the entire nation. We then cleaned it and created a smaller dataset called DNPAO, which focuses on nutrition, physical activities, and obesity.
+The data is stratified by age, education, income, gender, and race, providing detailed insights. Additionally, this dataset includes an "Overall" value for each state, as well as an overall value for the entire nation. We then cleaned it and created a smaller dataset called DNPAO_cleaned.csv, which focuses only on research question "Percent of adults aged 18 years and older who have obesity."
 
 # Instructions on how to use and interact with the project
 
@@ -33,9 +33,9 @@ GitHub Page of Red Team's project is at https://hatkiet.github.io/Project_3_RedT
 # A paragraph summarizing efforts for ethical considerations made in the project
 (_At least one paragraph summarizing efforts for ethical considerations made in the project_)
 
-The way data is reported can sometimes make it possible for someone to figure out personal information through reverse engineering. This means that if someone has access to known demographic information about an individual, they could potentially figure out that person's individual responses to a survey, provided that person is specific enough. For instance, if we know that a person is female, aged 18-24, Native American, has a college education, is in the highest income bracket, and lives in Guam in 2022, we could potentially determine their responses to survey questions about their routines, alcohol and tobacco consumption, and other such topics. 
+The way data is usually reported can sometimes make it possible for someone to figure out personal information through reverse engineering. This means that if someone has access to known demographic information about an individual, they could potentially figure out that person's individual responses to a survey, provided that person is specific enough. For instance, if we know that a person is female, aged 18-24, Native American, has a college education, is in the highest income bracket, and lives in Guam in 2022, we could potentially determine their responses to survey questions about their routines, alcohol and tobacco consumption, and other such topics. 
 
-This raises ethical concerns about how this data is reported and served by organizations like the CDC. To address this, the CDC formats the data in a way that only provides information about a specific question along with a specific demographic and group. For example, a document about obesity would contain many records, each one specifying state, year, and age group (e.g. 18-24), but no other demographic information is included in that record. This means that it is not possible to directly relate that data to any specific individual or group.
+This raises ethical concerns about how the data is reported and served by organizations like the CDC. To address this, the CDC formats the data in a way that only provides information about a specific question along with a specific demographic and group. For example, a document about obesity would contain many records, each one specifying state, year, and age group (e.g. 18-24), but no other demographic information is included in that record. This means that it is not possible to directly relate that data to any specific individual or group.
 
 
 # References for the data source(s) 
