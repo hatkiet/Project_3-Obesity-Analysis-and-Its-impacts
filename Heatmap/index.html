@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-us">  
+  <head>
+    <meta charset="UTF-8">
+    <title>Heatmap Project 3</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+
+    <!-- Leaflet JavaScript code-->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+
+    <!-- Leaflet heatmap plugin-->
+    <script type="text/javascript" src="static/js/leaflet-heat.js"></script>
+
+    <!-- D3 library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <!-- Step 2 -->
+    <!-- leaflet-choropleth JavaScript -->
+    <script type="text/javascript" src="static/js/choropleth.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var yearSelect = document.getElementById('year');
+      var demographicSelect = document.getElementById('demographic');
+      var optionSelect = document.getElementById('options');
+      var submitButton = document.getElementById('submit');
+  
+      var demographics = {
+          'Education': ['Less than high school', 'High school graduate', 'Some college or technical school', 'College graduate'],
+          'Gender': ['Male', 'Female'],
+          'Income': ['Less than $15,000', '$15,000 - $24,999', '$25,000 - $34,999', '$35,000 - $49,999', '$50,000 - $74,999', '$75,000 or greater', 'Data not reported'],
+          'Race/Ethnicity': ['Asian', 'Non-Hispanic Black', 'Hispanic','Non-Hispanic White', 'Hawaiian/Pacific Islander', 'American Indian/Alaska Native','2 or more races','Other'],
+          'Age': ['18 - 24', '25 - 34', '35 - 44', '35-44', '45 - 54', '55 - 64', '65 or older']
+      };
+  
+      // Populate years
+      for (let i = 2011; i <= 2022; i++) {
+          let option = new Option(i, i);
+          yearSelect.add(option);
+      }
+  
+      // Update options when demographic changes
+      demographicSelect.addEventListener('change', function() {
+          // Clear existing options
+          optionSelect.length = 0;
+          optionSelect.add(new Option('Choose an option', ''));
+          var selectedDemographic = this.value;
+          var options = demographics[selectedDemographic];
+          if (options) {
+              options.forEach(function(option) {
+                  optionSelect.add(new Option(option, option));
+              });
+          }
+      });
+  
+      // Handle form submission
+      submitButton.addEventListener('click', function(event) {
+          event.preventDefault();  // Prevent actual form submission to server
+
+          var year = yearSelect.value;
+          var demographic = demographicSelect.value;
+          var demographicText = demographicSelect.options[demographicSelect.selectedIndex].text;
+          var option = optionSelect.value;
+          var optionText = optionSelect.options[optionSelect.selectedIndex].text;
+          
+          //generating apiurl
+          var apiUrl = `https://data.cdc.gov/resource/hn4x-zwk7.geojson?questionid=Q036&yearstart=${year}&stratificationcategory1=${encodeURIComponent(demographicText)}&stratification1=${encodeURIComponent(optionText)}`;
+          
+          //debugging, checking if generated properly
+          console.log("Generated API URL:", apiUrl)
+
+          //dispatch event
+          document.dispatchEvent(new CustomEvent('APIUrlCreated', { detail: { apiUrl: apiUrl } }));
+
+          //debugging, checking if generated.
+          console.log("Custom event 'APIUrlCreated' dispatched with url:", apiUrl)
+
+          // Validate selections
+          if (!year || !demographic || !option) {
+              alert('Please select all options before submitting.');
+              return;
+          }
+  
+          // Creating API URL
+        
+        //console.log(apiUrl);
+        //globalApiUrl = apiUrl
+      });
+      
+  });
+    </script>
+  </head>
+  <body> 
+    <label for="year">Year:</label>
+    <select id="year">
+        <option selected disabled value="">Choose a year</option>
+    </select>
+
+    <label for="demographic">Demographics:</label>
+    <select id="demographic">
+        <option selected disabled value="">Choose a demographic</option>
+        <option value="Education">Education</option>
+        <option value="Gender">Gender</option>
+        <option value="Income">Income</option>
+        <option value="Race/Ethnicity">Race/Ethnicity</option>
+        <option value="Age">Age</option>
+    </select>
+
+    <label for="options">Options:</label>
+    <select id="options">
+        <option selected disabled value="">Choose an option</option>
+    </select>
+
+    <button id="submit">Submit</button>
+
+    <!-- The div where we'll insert our map -->
+    <div id="map"></div>
+
+    <!-- Our JavaScript -->
+    <!-- <script type="text/javascript" src="static/js/logic-1.js"></script> -->
+    <script type="text/javascript" src="static/js/logic-5.js"></script>
+    <!-- <script type="text/javascript" src="static/js/logic-4.js"></script> -->
+  </body>
+</html>
