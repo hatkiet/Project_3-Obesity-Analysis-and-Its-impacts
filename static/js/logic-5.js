@@ -36,8 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
   document.addEventListener('APIUrlCreated', async function(event) {
     let apiUrl = event.detail.apiUrl;
     console.log('Fetching data from:', apiUrl);
-       // Clear existing markers
-
     // Remove existing legend
     if (legend) {
       myMap.removeControl(legend);
@@ -76,8 +74,9 @@ function processData(data) {
         color: "black",
         weight: 1,
         fillOpacity: 0.8
+        // Change later, year
       }).bindPopup(`<h3>${feature.properties.locationdesc}</h3><hr>
-      <p><strong>Percent of Obesity in year 2022:</strong> ${feature.properties.data_value} (%)</p>
+      <p><strong>Percent of Obesity in year ${feature.properties.yearstart}:</strong> ${feature.properties.data_value} (%)</p>
       <p><strong>Sample size:</strong> ${feature.properties.sample_size}</p>`);
 
       return marker;
