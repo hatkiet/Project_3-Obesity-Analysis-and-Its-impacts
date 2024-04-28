@@ -161,3 +161,6 @@ cython_debug/
 
 .vscode
 Resources/apikeys.py
+Resources/apikeys/apikeys.py
+Resources/apitoken/apitoken.py
+Resources/config/config.py

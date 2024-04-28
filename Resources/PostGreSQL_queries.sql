@@ -7,7 +7,7 @@ stratificationids;
 DROP TABLE IF EXISTS dnpao;
 
 -- 2. RUN CREATE
-CREATE TABLE dnpao (
+CREATE TABLE IF NOT EXISTS dnpao (
     YearStart INT NOT NULL,
     LocationAbbr VARCHAR NOT NULL,
     LocationDesc VARCHAR NOT NULL,
