@@ -29,6 +29,45 @@ GitHub Page of Red Team's project is at https://hatkiet.github.io/Project_3_RedT
 
 <img width="1783" alt="Screenshot 2024-04-28 at 12 44 58 AM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/36f3893b-6e7b-470b-b844-d6492b7fec7f">
 
+# Visualizations: 
+(**focus on a specific year 2022**)
+
+[Fig.1: 3D plot of Percent of Obesity in each Age Group per State]
+
+<img width="979" alt="Screenshot 2024-04-28 at 1 10 37 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/b49c29f9-1a22-44cb-bc69-1b832ead26ab">
+
+[Fig. 2: Percent of Obesity in each Age Group per State]
+
+<img width="595" alt="Screenshot 2024-04-28 at 1 08 03 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/ff5a4f6e-c022-48a9-97a7-e5da5feb6396">
+
+[Fig.3: National levels]
+
+The CDC 2022 Adult Obesity Maps for overall 50 states, the District of Columbia, and 3 US territories show the proportion of adults with a body mass index (BMI) equal to or greater than 30 ( ≥30 kg/m2) based on self-reported weight and height.
+
+A. By Age
+
+<img width="1018" alt="Screenshot 2024-04-28 at 1 12 48 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/77e460f4-5273-4d79-903e-95b6e07bcff2">
+
+B. By Education
+
+<img width="1025" alt="Screenshot 2024-04-28 at 1 15 54 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/ca93bb56-de0d-4c48-981a-b0272cab70ed">
+
+C. By Income
+
+<img width="1020" alt="Screenshot 2024-04-28 at 1 16 14 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/85e386db-8565-425f-80ed-868812aa3275">
+
+D. By Gender
+
+<img width="1028" alt="Screenshot 2024-04-28 at 1 16 05 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/8d14fe04-e19f-4049-9d46-2457aca9ee71">
+
+E. By Race/Ethnicity
+
+<img width="1009" alt="Screenshot 2024-04-28 at 1 16 24 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/7bd4b438-c880-479d-a9a2-2e27f751948a">
+
+F. By overall population per state
+
+<img width="1774" alt="q036_2022_overall" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/6caf7e4c-7314-4c6e-b83a-c627f428cfa3">
+
 
 # A paragraph summarizing efforts for ethical considerations made in the project
 (_At least one paragraph summarizing efforts for ethical considerations made in the project_)
