@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* Format the legend box with specified settings */
+.legend {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+/* Format for legend items */
+.legend i {
+  width: 25px;
+  height: 15px;
+  display: inline-block;
+  margin-right: 5px;
+}

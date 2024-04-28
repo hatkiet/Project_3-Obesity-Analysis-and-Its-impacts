@@ -21,12 +21,12 @@ d3.json(geoData).then(data => {
   for (let f of data.features){
     f.properties.data_value *= 1;
   }
-  
+  dataValue = parseFloat(feature.properties.data_value);
   // Create a new choropleth layer.
   let geojson = L.choropleth(data, {
-
+    
     // Define which property in the features to use.
-    valueProperty: "data_value",
+    valueProperty: "dataValue",
     //console.log(valueProperty);
     //valueProperty: function(feature) {return parseFloat(feature.properties.data_value);},
     // Set the color scale.

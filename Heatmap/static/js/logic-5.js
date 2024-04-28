@@ -63,12 +63,12 @@ d3.json(geoData).then(function(data) {
     legend.addTo(myMap);
 });
 
-// Define a function to determine the marker size based on the earthquake magnitude. [Refs: Mod-15/Day1/Act-09]
+// Define a function to determine the marker size based on the sample_size. [Refs: Mod-15/Day1/Act-09]
 function markerSize(data) {
     return Math.sqrt(data)*0.2;
 }
 
-// Define a function to determine the marker color based on the earthquake depth. [Refs: Mod-15/Day2/Act-01]
+// Define a function to determine the marker color based on the data_value. [Refs: Mod-15/Day2/Act-01]
 function markerColor(percent) {
     if (percent > 45)return "brown";
     else if (percent > 40) return "darkred";
