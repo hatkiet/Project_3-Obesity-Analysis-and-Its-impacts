@@ -170,3 +170,4 @@ cython_debug/
 #.idea/
 
 .vscode
+Resources/config/config.py
