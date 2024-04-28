@@ -1,16 +1,17 @@
--- 1. RUN DROP
 DROP VIEW IF EXISTS dnpao_all, 
 obesity_all, 
 overall_national_obesity_2022, 
 overall_state_obesity_2022, 
 stratificationids;
-DROP TABLE IF EXISTS dnpao;
 
 -- 2. RUN CREATE
 CREATE TABLE IF NOT EXISTS dnpao (
-    YearStart INT NOT NULL,
-    LocationAbbr VARCHAR NOT NULL,
-    LocationDesc VARCHAR NOT NULL,
+    yearstart INT NOT NULL,
+    yearend INT NOT NULL,
+	locationabbr VARCHAR(2) NOT NULL,
+    locationdesc VARCHAR(20) NOT NULL,
+	datasource VARCHAR(5) NOT NULL,
+	
 	QuestionID VARCHAR NOT NULL,
 	Question  VARCHAR NOT NULL,
     Data_Value FLOAT,
