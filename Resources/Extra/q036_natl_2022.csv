@@ -1,0 +1,28 @@
+YearStart,YearEnd,LocationAbbr,LocationDesc,Question,Data_Value,Low_Confidence_Limit,High_Confidence_Limit ,Sample_Size,Age(years),Education,Gender,Income,Race/Ethnicity,GeoLocation,ClassID,TopicID,QuestionID,LocationID,StratificationCategory1,Stratification1,StratificationCategoryId1,StratificationID1
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,20.5,19.6,21.4,23310.0,18 - 24,,,,,,OWS,OWS1,Q036,59,Age (years),18 - 24,AGEYR,AGEYR1824
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,32.2,31.3,33.0,40671.0,25 - 34,,,,,,OWS,OWS1,Q036,59,Age (years),25 - 34,AGEYR,AGEYR2534
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,37.4,36.6,38.3,50899.0,35 - 44,,,,,,OWS,OWS1,Q036,59,Age (years),35 - 44,AGEYR,AGEYR3544
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,39.9,39.1,40.7,56411.0,45 - 54,,,,,,OWS,OWS1,Q036,59,Age (years),45 - 54,AGEYR,AGEYR4554
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,37.4,36.7,38.2,72136.0,55 - 64,,,,,,OWS,OWS1,Q036,59,Age (years),55 - 64,AGEYR,AGEYR5564
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,30.6,30.1,31.2,144122.0,65 or older,,,,,,OWS,OWS1,Q036,59,Age (years),65 or older,AGEYR,AGEYR65PLUS
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,27.2,26.7,27.6,165382.0,,College graduate,,,,,OWS,OWS1,Q036,59,Education,College graduate,EDU,EDUCOGRAD
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,35.7,35.1,36.3,94302.0,,High school graduate,,,,,OWS,OWS1,Q036,59,Education,High school graduate,EDU,EDUHSGRAD
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,37.6,36.3,38.9,20854.0,,Less than high school,,,,,OWS,OWS1,Q036,59,Education,Less than high school,EDU,EDUHS
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,35.9,35.3,36.5,105991.0,,Some college or technical school,,,,,OWS,OWS1,Q036,59,Education,Some college or technical school,EDU,EDUCOTEC
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,34.1,33.6,34.5,197684.0,,,Female,,,,OWS,OWS1,Q036,59,Gender,Female,GEN,FEMALE
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,32.6,32.1,33.0,189865.0,,,Male,,,,OWS,OWS1,Q036,59,Gender,Male,GEN,MALE
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,38.4,37.2,39.6,30654.0,,,,"$15,000 - $24,999",,,OWS,OWS1,Q036,59,Income,"$15,000 - $24,999",INC,INC1525
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,36.5,35.5,37.5,38450.0,,,,"$25,000 - $34,999",,,OWS,OWS1,Q036,59,Income,"$25,000 - $34,999",INC,INC2535
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,35.6,34.6,36.5,43027.0,,,,"$35,000 - $49,999",,,OWS,OWS1,Q036,59,Income,"$35,000 - $49,999",INC,INC3550
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,35.7,34.9,36.6,55263.0,,,,"$50,000 - $74,999",,,OWS,OWS1,Q036,59,Income,"$50,000 - $74,999",INC,INC5075
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,34.1,33.2,34.9,45429.0,,,,"$75,000 or greater",,,OWS,OWS1,Q036,59,Income,"$75,000 or greater",INC,INC75PLUS
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,29.5,29.0,30.0,156576.0,,,,Data not reported,,,OWS,OWS1,Q036,59,Income,Data not reported,INC,INCNR
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,38.2,36.7,39.7,18150.0,,,,"Less than $15,000",,,OWS,OWS1,Q036,59,Income,"Less than $15,000",INC,INCLESS15
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,33.3,33.0,33.6,387549.0,,,,,,,OWS,OWS1,Q036,59,Total,Total,OVR,OVERALL
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,33.7,31.8,35.7,8465.0,,,,,2 or more races,,OWS,OWS1,Q036,59,Race/Ethnicity,2 or more races,RACE,RACE2PLUS
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,38.8,35.8,41.8,6243.0,,,,,American Indian/Alaska Native,,OWS,OWS1,Q036,59,Race/Ethnicity,American Indian/Alaska Native,RACE,RACENAA
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,13.3,12.0,14.7,10839.0,,,,,Asian,,OWS,OWS1,Q036,59,Race/Ethnicity,Asian,RACE,RACEASN
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,35.3,30.6,40.2,1351.0,,,,,Hawaiian/Pacific Islander,,OWS,OWS1,Q036,59,Race/Ethnicity,Hawaiian/Pacific Islander,RACE,RACEHPI
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,36.7,35.7,37.8,30972.0,,,,,Hispanic,,OWS,OWS1,Q036,59,Race/Ethnicity,Hispanic,RACE,RACEHIS
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,43.0,42.0,44.1,29914.0,,,,,Non-Hispanic Black,,OWS,OWS1,Q036,59,Race/Ethnicity,Non-Hispanic Black,RACE,RACEBLK
+2022,2022,US,National,Percent of adults aged 18 years and older who have obesity,32.5,32.1,32.8,289595.0,,,,,Non-Hispanic White,,OWS,OWS1,Q036,59,Race/Ethnicity,Non-Hispanic White,RACE,RACEWHT
