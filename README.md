@@ -3,11 +3,9 @@ Red Team members's (Firstname's order): _Harrison Lee, Kiet Hoang, Michael MacIn
 
 # An overview of the project and its purpose
 
-_Project Aim:_ The project-3-Red-Team aims to analyze demographic information and its impact on obesity trends in the United States. The dataset was sourced from the BRFSS (Behavioural Risk Factor Surveillance System), which is then used by the CDC's Division of Nutrition, Physical Activity, and Obesity (DNPAO). This dataset contains various demographic information from the United States, which shows how it relates to obesity, exercise and diet habits.
+_Project Aim:_ Project-3-Red-Team aimed to analyze demographic information and its impact on obesity trends in the United States. The dataset was sourced from the BRFSS (Behavioural Risk Factor Surveillance System), which is then used by the CDC's Division of Nutrition, Physical Activity, and Obesity (DNPAO). This dataset contains various demographic information from the United States, which shows how it relates to obesity, exercise and diet habits.
 
-The data used for this project was a large dataset with different categories and questions. We collected and amended it based on the questions, specifically related to diet, exercise, and obesity. The demographic variables include education level, age, ethnicity, gender, and income. These factors are examined to understand their impact on obesity trends. 
-
-The data is stratified by age, education, income, gender, and race, providing detailed insights. Additionally, this dataset includes an "Overall" value for each state, as well as an overall value for the entire nation. We then cleaned it and created a smaller dataset called DNPAO_cleaned.csv, which focuses only on research question "Percent of adults aged 18 years and older who have obesity."
+The data used for this project was a large dataset with different categories and questions. We collected and amended it based on the questions, specifically related to diet, exercise, and obesity. The demographic stratifications included education, age, ethnicity, gender, and income. These factors are examined to understand their impact on obesity trends. Additionally, this dataset includes an "Overall" value for each state, as well as a single "Overall" value for the entire nation. We then cleaned and created a smaller dataset called DNPAO_cleaned.csv, which focuses strictly on data values of individuals who have self-identified as "Percent of adults aged 18 years and older who have obesity."
 
 # Instructions on how to use and interact with the project
 
@@ -67,6 +65,14 @@ E. By Race/Ethnicity
 F. By overall population per state
 
 <img width="1774" alt="q036_2022_overall" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/6caf7e4c-7314-4c6e-b83a-c627f428cfa3">
+
+# Initial Thoughts and Concluding Remarks
+We initially suspected that greater rates of obesity would be found in the lower bands of income earners, speculating that access to high-quality, nutritious foods may be more economically out of reach for low-income earners. 
+After graphing, that hypothesis was debunked, as state rates of obesity were not significantly higher in any one income stratification over others. 
+
+When we projected “Total” (data divorced from all stratifications) obesity values for each state on a US map, we saw that Louisiana and West Virginia reported the highest obesity rates. This data was not mirrored when we looked at the same state obesity rates, but specifically in regards to income. Put another way, Louisiana and West Virginia were not the same top two states for obesity rates when we looked at the lower stratifications of income. Only Louisiana appears as the state with the highest obesity rates when observing the $25,000-$34,999 income range, seconded by Kentucky (not West Virginia). West Virginia does appear as a state with the highest obesity rate in the $50,000-$74,999 range, as well as the “Data not reported” income range, but is not seconded by Louisiana for either of these ranges.
+
+Due to the highly stratified nature of the dataset, it is difficult to draw any referential conclusions by attempting to make correlations between the stratifications. More time and more research with additional datasets would need to be conducted to better determine what specific demographics might shape obesity trends in the United States.
 
 
 # A paragraph summarizing efforts for ethical considerations made in the project
