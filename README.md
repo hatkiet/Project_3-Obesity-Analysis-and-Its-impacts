@@ -92,9 +92,7 @@ It was a group effort. We wrote the code ourselves, sometimes using AI assistanc
 
 # Member's contributions: 
 
-**- Harrison Lee**:
-
-**- Kiet Hoang**: Jupyter notebook on clearning, trimming dataset, saving to CSV, visualizations, HTML and Java script.
+**- Harrison Lee and Kiet Hoang**: Jupyter notebook on clearning, trimming dataset, saving to CSV, visualizations, HTML and Java script.
 
 **- Michael Nurthen**:
 
