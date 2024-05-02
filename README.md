@@ -98,6 +98,6 @@ It was a group effort. We wrote the code ourselves, sometimes using AI assistanc
 
 **- Michael Nurthen**:
 
-**- Michael MacInnis**:
+**- Michael MacInnis**: Database creation, database queries
 
 **- Temi Olufemi**: 
