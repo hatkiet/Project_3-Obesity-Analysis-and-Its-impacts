@@ -89,3 +89,15 @@ https://dev.socrata.com/foundry/data.cdc.gov/hn4x-zwk7
 
 # References for any code used that is not your own: 
 It was a group effort. We wrote the code ourselves, sometimes using AI assistance for debugging and/or optimization.
+
+# Member's contributions: 
+
+**- Harrison Lee**:
+
+**- Kiet Hoang**: Jupyter notebook on clearning, trimming dataset, saving to CSV, visualizations, HTML and Java script.
+
+**- Michael Nurthen**:
+
+**- Michael MacInnis**:
+
+**- Temi Olufemi**: 
