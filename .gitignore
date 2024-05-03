@@ -171,3 +171,6 @@ cython_debug/
 
 .vscode
 Resources/config/config.py
+Resources/Map files/BRFSS_MMSA_2010.geojson
+Resources/Map files/brfss_state_2010_download.geojson
+Resources/Map files/point_to_states.csv

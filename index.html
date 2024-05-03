@@ -26,7 +26,7 @@
 
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
-    <script>
+    <script> // Script adding listener for DOM
     document.addEventListener('DOMContentLoaded', function() {
       var yearSelect = document.getElementById('year');
       var demographicSelect = document.getElementById('demographic');
@@ -62,15 +62,15 @@
           }
       });
   
-      // Handle form submission
+      // Handle form submission, importantly generates the API link
       submitButton.addEventListener('click', function(event) {
           event.preventDefault();  // Prevent actual form submission to server
 
           var year = yearSelect.value;
           var demographic = demographicSelect.value;
-          var demographicText = demographicSelect.options[demographicSelect.selectedIndex].text;
+          var demographicText = demographicSelect.options[demographicSelect.selectedIndex].text; //text is needed for API
           var option = optionSelect.value;
-          var optionText = optionSelect.options[optionSelect.selectedIndex].text;
+          var optionText = optionSelect.options[optionSelect.selectedIndex].text; //text is needed for API
           
           //generating apiurl
           var apiUrl = `https://data.cdc.gov/resource/hn4x-zwk7.geojson?questionid=Q036&yearstart=${year}&stratificationcategory1=${encodeURIComponent(demographicText)}&stratification1=${encodeURIComponent(optionText)}`;
@@ -94,7 +94,8 @@
   });
     </script>
   </head>
-  <body> 
+  <!-- Following displays the option/buttons for the dropdown menu and submit button -->
+  <body>
     <label for="year">Year:</label>
     <select id="year">
         <option selected disabled value="">Choose a year</option>

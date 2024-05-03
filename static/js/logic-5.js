@@ -30,7 +30,7 @@ function markerColor(dataValue) {
            dataValue > 20 ? "greenyellow" :
            "lime"; // Default to lime for values 20 or less
 }
-// Event listener for when the API URL is created
+// Event listener for when the API URL is created aka (submit button is clicked with proper options)
 document.addEventListener('DOMContentLoaded', function() {
   // Setup event listener inside DOMContentLoaded to ensure all DOM elements are ready
   document.addEventListener('APIUrlCreated', async function(event) {
@@ -43,18 +43,18 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
       try {
-          let data = await d3.json(apiUrl);
-          console.log('Data fetched:', data);
-          processData(data);
+          let data = await d3.json(apiUrl); // query API
+          console.log('Data fetched:', data); //debugging console log
+          processData(data); // process and display the values for markers
       } catch (error) {
-          console.error('Error fetching geo data:', error);
+          console.error('Error fetching geo data:', error); // debugging error
       }; 
   });
 }); 
   
 // Function to process and display data
 function processData(data) {
-
+  //Important, need to clear layers in case of multiple queries, do not want previous query to display markers
   currentMarkers.clearLayers();
   // Process data to convert data values to numbers
   data.features.forEach(function(f) {
@@ -74,9 +74,9 @@ function processData(data) {
         color: "black",
         weight: 1,
         fillOpacity: 0.8
-        // Change later, year
+        // below popup will display the year that was selected from the option 
       }).bindPopup(`<h3>${feature.properties.locationdesc}</h3><hr>
-      <p><strong>Percent of Obesity in year ${feature.properties.yearstart}:</strong> ${feature.properties.data_value} (%)</p>
+      <p><strong>Percent of Obesity in year ${feature.properties.yearstart}:</strong> ${feature.properties.data_value} (%)</p> 
       <p><strong>Sample size:</strong> ${feature.properties.sample_size}</p>`);
 
       return marker;
@@ -98,11 +98,11 @@ function setupLegend(){
       // Define legend labels and colors, respectively
       let labels = [
         "<20%",          // Less than 20%
-        "20% - <25%",    // 20% to under 25%
-        "25% - <30%",    // 25% to under 30%
-        "30% - <35%",    // 30% to under 35%
-        "35% - <40%",    // 35% to under 40%
-        "40% - <45%",    // 40% to under 45%
+        "20% - <25%",    // 20% to 25%
+        "25% - <30%",    // 25% to 30%
+        "30% - <35%",    // 30% to 35%
+        "35% - <40%",    // 35% to 40%
+        "40% - <45%",    // 40% to 45%
         ">45%"           // Greater than 45%
     ];
       let colors = ["lime", "greenyellow", "yellow", "orange", "red", "darkred", "brown"];
